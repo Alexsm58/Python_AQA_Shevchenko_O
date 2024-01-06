@@ -2,10 +2,10 @@ import math   #імпорт бібліотеки math
 import random   #імпорт бібліотеки random
 a = 1
 #b = id(a)
-print(id(a) )   #викликати id-шнік
+print(id(a))   #викликати id-шнік
 
 b = 2.5
-print(id(b) )
+print(id(b))
 print(type(b))
 
 c = 'text'
@@ -15,11 +15,11 @@ print(type(d))   #виликати тип функції
 
 
 simple_int = "Oleksandr"
-secoond_int = "Shevchenko"
+second_int = "Shevchenko"
 third_int = 5.1
 
 
-print(simple_int + " " + secoond_int)
+print(simple_int + " " + second_int)
 print(third_int)
 print(third_int-1)
 print(third_int+1)
