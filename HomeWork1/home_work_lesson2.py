@@ -25,3 +25,8 @@ area_of_a_circle = math.pi*radius**2
 print(f'area of a circle is {area_of_a_circle}')
 
 
+#задание 3
+dollar_exchange_rate = 38.4828
+amount_equal_to_a_dollar = 1000
+amount_equal_to_a_dollar = float(dollar_exchange_rate)
+print(amount_equal_to_a_dollar.__round__(2))
