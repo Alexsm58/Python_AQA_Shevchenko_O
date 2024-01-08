@@ -5,10 +5,9 @@ first_name = 'oleksandr'
 last_name = 'shevchenko'
 full_name = first_name+' '+last_name
 
-print(full_name)
 print(full_name.lower())
 print(full_name.upper())
-print(first_name.capitalize()+' '+last_name.capitalize())
+print(full_name.title())
 
 change_name = '    oleksandr    '
 print(change_name)
@@ -21,6 +20,7 @@ print(change_name.strip())
 radius = 6
 circle_length = 2*math.pi*radius
 print(f'circle length is {circle_length}')
+
 area_of_a_circle = math.pi*radius**2
 print(f'area of a circle is {area_of_a_circle}')
 
@@ -29,4 +29,4 @@ print(f'area of a circle is {area_of_a_circle}')
 dollar_exchange_rate = 38.4828
 amount_equal_to_a_dollar = 1000
 amount_equal_to_a_dollar = float(dollar_exchange_rate)
-print(amount_equal_to_a_dollar.__round__(2))
+print(round(amount_equal_to_a_dollar, 2))
