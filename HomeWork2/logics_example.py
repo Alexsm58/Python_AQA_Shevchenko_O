@@ -17,7 +17,7 @@ print(a<=b)
 print(a!=b)
 print(a==b)
 
-# if elife else - це один із портів
+# if elife else - умовні конструкції, оператори
 
 if_value_to_reed = int(input('enter your text here'))
 print(if_value_to_reed)
