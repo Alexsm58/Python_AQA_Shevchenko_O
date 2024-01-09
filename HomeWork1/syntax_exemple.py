@@ -35,7 +35,7 @@ print(c)
 print(type(c))
 
 first_float = 5.747634354
-print(round(first_float, 6))
+print(round(first_float, 6))    #roundокруглення до 'n' знаків після коми
 print(dir(math))
 
 print(math.pi)
