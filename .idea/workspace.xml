@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="making edits">
-      <change afterPath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added a solution to the first problem&#10;added a solution to the second problem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.home_work_lesson2.executor": "Run",
-    "Python.home_work_lesson3.executor": "Run",
-    "Python.logics_example.executor": "Run",
-    "Python.syntax_exemple.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.home_work_lesson3">
     <configuration name="home_work_lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
@@ -231,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704842315919</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added a solution to the first problem">
+      <option name="closed" value="true" />
+      <created>1704843827556</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704843827556</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added a solution to the first problem&#10;added a solution to the second problem">
+      <option name="closed" value="true" />
+      <created>1704845090597</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704845090597</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +272,8 @@
     <MESSAGE value="added lesson notes 3" />
     <MESSAGE value="added the whole lecture" />
     <MESSAGE value="making edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="making edits" />
+    <MESSAGE value="added a solution to the first problem" />
+    <MESSAGE value="added a solution to the first problem&#10;added a solution to the second problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a solution to the first problem&#10;added a solution to the second problem" />
   </component>
 </project>
