@@ -29,7 +29,7 @@ elif birth_month >= 10 and birth_month <= 12:
 else:
     print('Incorrect month data')
 
-'''
+
 #задача 3
 random_number = random.randrange(1000)
 print(random_number)
@@ -47,11 +47,11 @@ if random_number % 6 == 0 and len(random_number(2)):
     print("That's the right number")
 else:
     print("Sorry, that's the wrong number")
-'''
+
 
 #задача 4
-x_coordinate = int(input('Pleas enter x coordinate'))
-y_coordinate = int(input('Pleas enter y coordinate'))
+x_coordinate = float(input('Pleas enter x coordinate'))
+y_coordinate = float(input('Pleas enter y coordinate'))
 if x_coordinate > 0 and y_coordinate > 0:
         print('First quarter of coordinates')
 elif x_coordinate < 0 and y_coordinate > 0:
@@ -69,3 +69,4 @@ else:
         print('The point lies on the coordinate axis y')
     else:
         print('Incorrect data entered')
+
