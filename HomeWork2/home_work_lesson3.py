@@ -3,6 +3,7 @@ import math
 
 #задача 1
 min = random.randrange(0, 59)
+min_empty = ''
 print(min)
 if min >= 0 and min <= 15:
     print('First quarter')
@@ -13,11 +14,12 @@ elif min >= 31 and min <= 45:
 elif min >= 46 and min <= 59:
     print('Fourth quarter')
 else:
-    print('Incorrect value')
+        print('Incorrect value')
 
 
 #задача 2
 birth_month = int(input('enter the month of your birthday'))
+birth_month_empty = ''
 if birth_month > 0 and birth_month <= 3:
     print('Snow fell outside the window')
 elif birth_month >=4 and birth_month <= 6:
@@ -27,41 +29,39 @@ elif birth_month >= 7 and birth_month <= 9:
 elif birth_month >= 10 and birth_month <= 12:
     print('Everything around lit up with bright colors')
 else:
-    print('Incorrect month data')
+    if min == birth_month_empty:
+        print('Incorrect month data')
 
 
 #задача 3
-random_number = random.randrange(1000)
-print(random_number)
+random_number = str(random.randrange(1000))
+print(type(random_number))
+print('Random number', random_number)
+if len(random_number) <= 4:
+    digits = [int(digit) for digit in random_number]
+    print("Individual numbers:", digits)
 digit_sum = sum(int(digit) for digit in str(random_number))
-if random_number % 2 == 0 and digit_sum % 3 == 0:
-    print("That's the right number")
+print(type(digit_sum))
+print("Digit sum", digit_sum)
+if int(random_number) % 6 == 0 and int(digit_sum) % 3 == 0:
+    print('Congratulations!')
 else:
-    print("Sorry, that's the wrong number")
-
-random_number = random.randrange(1000)
-print(random_number)
-string_length = len()
-#digit_sum = sum(int(digit) for digit in str(random_number))
-if random_number % 6 == 0 and len(random_number(2)):
-    print("That's the right number")
-else:
-    print("Sorry, that's the wrong number")
+    print('Good luck!')
 
 
 #задача 4
 x_coordinate = float(input('Pleas enter x coordinate'))
 y_coordinate = float(input('Pleas enter y coordinate'))
 if x_coordinate > 0 and y_coordinate > 0:
-        print('First quarter of coordinates')
+    print('First quarter of coordinates')
 elif x_coordinate < 0 and y_coordinate > 0:
-        print('Second quarter of coordinates')
+    print('Second quarter of coordinates')
 elif x_coordinate < 0 and y_coordinate < 0:
     print('Third quarter of coordinates')
 elif x_coordinate > 0 and y_coordinate < 0:
-        print('Fourth quarter of coordinates')
+    print('Fourth quarter of coordinates')
 elif x_coordinate == 0 and y_coordinate == 0:
-        print('Point at origin')
+    print('Point at origin')
 else:
     if x_coordinate > 0 or x_coordinate < 0 and y_coordinate == 0:
         print('The point lies on the coordinate axis x')
