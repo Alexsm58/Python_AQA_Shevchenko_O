@@ -78,13 +78,13 @@ else:
 
 #list - списки
 cool_fruit = 'watermelon'
-fruits = ['apple','banana',cool_fruit,'watermelon']
+fruits = ['apple', 'banana', cool_fruit, 'watermelon']
 print(fruits)
 print(type(fruits))
 print(id(fruits))
 print(len(fruits))
 print(fruits[-1])
-print(fruits.index('watermelon'))
+print(fruits.index('watermelon', 3))
 fruits.append('lemon')    #append додае єлемент в кінець списку
 print(fruits)
 fruits.pop(1)    #pop видаляє єлемент за індексом .pop(1), або з кінця списку .pop()

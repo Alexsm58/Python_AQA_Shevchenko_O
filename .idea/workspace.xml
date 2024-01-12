@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="adding a check for an empty string">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="downloaded the updates to my computer">
+      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork2/logics_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/logics_example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.check_funktion_type.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
     &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
@@ -48,28 +49,6 @@
   }
 }</component>
   <component name="RunManager" selected="Python.home_work_lesson3">
-    <configuration name="check_funktion_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork2/check_funktion_type.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="home_work_lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -161,7 +140,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.home_work_lesson3" />
-        <item itemvalue="Python.check_funktion_type" />
         <item itemvalue="Python.logics_example" />
         <item itemvalue="Python.home_work_lesson2" />
         <item itemvalue="Python.syntax_exemple" />
@@ -280,31 +258,7 @@
       <option name="project" value="LOCAL" />
       <updated>1704928809389</updated>
     </task>
-    <task id="LOCAL-00013" summary="added a solution to the fourth problem with float">
-      <option name="closed" value="true" />
-      <created>1704988525135</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1704988525135</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Added solution to problem 3">
-      <option name="closed" value="true" />
-      <created>1705073796667</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1705073796667</updated>
-    </task>
-    <task id="LOCAL-00015" summary="adding a check for an empty string">
-      <option name="closed" value="true" />
-      <created>1705074333991</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1705074333991</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,9 +285,7 @@
     <MESSAGE value="added a solution to the first problem" />
     <MESSAGE value="added a solution to the first problem&#10;added a solution to the second problem" />
     <MESSAGE value="added a solution to the fourth problem" />
-    <MESSAGE value="added a solution to the fourth problem with float" />
-    <MESSAGE value="Added solution to problem 3" />
-    <MESSAGE value="adding a check for an empty string" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding a check for an empty string" />
+    <MESSAGE value="downloaded the updates to my computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="downloaded the updates to my computer" />
   </component>
 </project>
