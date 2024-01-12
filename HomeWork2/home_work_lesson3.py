@@ -18,8 +18,7 @@ else:
 
 
 #задача 2
-birth_month = int(input('enter the month of your birthday'))
-birth_month_empty = ''
+birth_month = int(input('enter the month of your birthday: '))
 if birth_month > 0 and birth_month <= 3:
     print('Snow fell outside the window')
 elif birth_month >=4 and birth_month <= 6:
@@ -29,8 +28,9 @@ elif birth_month >= 7 and birth_month <= 9:
 elif birth_month >= 10 and birth_month <= 12:
     print('Everything around lit up with bright colors')
 else:
-    if min == birth_month_empty:
+    if birth_month <= 0:
         print('Incorrect month data')
+
 
 
 #задача 3
@@ -43,15 +43,15 @@ if len(random_number) <= 4:
 digit_sum = sum(int(digit) for digit in str(random_number))
 print(type(digit_sum))
 print("Digit sum", digit_sum)
-if int(random_number) % 6 == 0 and int(digit_sum) % 3 == 0:
+if int(random_number) % 6 == 0 and digit_sum % 3 == 0:
     print('Congratulations!')
 else:
     print('Good luck!')
 
 
 #задача 4
-x_coordinate = float(input('Pleas enter x coordinate'))
-y_coordinate = float(input('Pleas enter y coordinate'))
+x_coordinate = float(input('Pleas enter x coordinate: '))
+y_coordinate = float(input('Pleas enter y coordinate: '))
 if x_coordinate > 0 and y_coordinate > 0:
     print('First quarter of coordinates')
 elif x_coordinate < 0 and y_coordinate > 0:

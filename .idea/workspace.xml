@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added a solution to the fourth problem with float">
-      <change afterPath="$PROJECT_DIR$/HomeWork2/check_funktion_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="Added solution to problem 3">
+      <change beforePath="$PROJECT_DIR$/HomeWork2/check_funktion_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/check_funktion_type.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -289,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704988525135</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added solution to problem 3">
+      <option name="closed" value="true" />
+      <created>1705073796667</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705073796667</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,6 +324,7 @@
     <MESSAGE value="added a solution to the first problem&#10;added a solution to the second problem" />
     <MESSAGE value="added a solution to the fourth problem" />
     <MESSAGE value="added a solution to the fourth problem with float" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a solution to the fourth problem with float" />
+    <MESSAGE value="Added solution to problem 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution to problem 3" />
   </component>
 </project>
