@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="Added solution to problem 3">
-      <change beforePath="$PROJECT_DIR$/HomeWork2/check_funktion_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/check_funktion_type.py" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="adding a check for an empty string">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.check_funktion_type.executor": "Run",
-    "Python.home_work_lesson2.executor": "Run",
-    "Python.home_work_lesson3.executor": "Run",
-    "Python.logics_example.executor": "Run",
-    "Python.syntax_exemple.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.check_funktion_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.home_work_lesson3">
     <configuration name="check_funktion_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
@@ -296,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705073796667</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding a check for an empty string">
+      <option name="closed" value="true" />
+      <created>1705074333991</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1705074333991</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +333,7 @@
     <MESSAGE value="added a solution to the fourth problem" />
     <MESSAGE value="added a solution to the fourth problem with float" />
     <MESSAGE value="Added solution to problem 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solution to problem 3" />
+    <MESSAGE value="adding a check for an empty string" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding a check for an empty string" />
   </component>
 </project>

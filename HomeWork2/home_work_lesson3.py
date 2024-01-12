@@ -3,7 +3,6 @@ import math
 
 #задача 1
 min = random.randrange(0, 59)
-min_empty = ''
 print(min)
 if min >= 0 and min <= 15:
     print('First quarter')
@@ -14,7 +13,7 @@ elif min >= 31 and min <= 45:
 elif min >= 46 and min <= 59:
     print('Fourth quarter')
 else:
-        print('Incorrect value')
+    print('Incorrect value')
 
 
 #задача 2
@@ -30,7 +29,8 @@ elif birth_month >= 10 and birth_month <= 12:
 else:
     if birth_month <= 0:
         print('Incorrect month data')
-
+    else:
+        print('Something went wrong')
 
 
 #задача 3
@@ -69,4 +69,3 @@ else:
         print('The point lies on the coordinate axis y')
     else:
         print('Incorrect data entered')
-
