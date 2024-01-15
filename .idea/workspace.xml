@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="removed extra padding">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="shortened variable names">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork1/home_work_lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork1/home_work_lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.home_work_lesson2">
+  <component name="RunManager" selected="Python.home_work_lesson3">
     <configuration name="check_funktion_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -166,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.home_work_lesson3" />
         <item itemvalue="Python.home_work_lesson2" />
         <item itemvalue="Python.home_work_lesson4" />
         <item itemvalue="Python.list_praсtice" />
         <item itemvalue="Python.check_funktion_type" />
-        <item itemvalue="Python.home_work_lesson3" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705334397815</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="shortened variable names">
+      <option name="closed" value="true" />
+      <created>1705337100622</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1705337100622</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -376,6 +384,7 @@
     <MESSAGE value="added homework problem for fourth lecture" />
     <MESSAGE value="added sorting function fixes latest and earliest" />
     <MESSAGE value="removed extra padding" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed extra padding" />
+    <MESSAGE value="shortened variable names" />
+    <option name="LAST_COMMIT_MESSAGE" value="shortened variable names" />
   </component>
 </project>

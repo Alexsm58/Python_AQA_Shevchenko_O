@@ -63,7 +63,7 @@ elif x_coordinate > 0 and y_coordinate < 0:
 elif x_coordinate == 0 and y_coordinate == 0:
     print('Point at origin')
 else:
-    if x_coordinate > 0 or x_coordinate < 0 and y_coordinate == 0:
+    if y_coordinate == 0 and x_coordinate > 0 or x_coordinate < 0:
         print('The point lies on the coordinate axis x')
     elif x_coordinate == 0 and y_coordinate > 0 or y_coordinate < 0:
         print('The point lies on the coordinate axis y')
