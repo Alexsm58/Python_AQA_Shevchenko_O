@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added practice for third lesson">
-      <change afterPath="$PROJECT_DIR$/HomeWork3/home_work_lesson4.py" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added sorting function fixes latest and earliest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork3/list_praсtice.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork3/list_praсtice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork3/home_work_lesson4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork3/home_work_lesson4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.check_funktion_type.executor": "Run",
-    "Python.home_work_lesson2.executor": "Run",
-    "Python.home_work_lesson3.executor": "Run",
-    "Python.home_work_lesson4.executor": "Run",
-    "Python.list_praсtice.executor": "Run",
-    "Python.logics_example.executor": "Run",
-    "Python.syntax_exemple.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.check_funktion_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_praсtice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.home_work_lesson4">
     <configuration name="check_funktion_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
@@ -319,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705190261720</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added homework problem for fourth lecture">
+      <option name="closed" value="true" />
+      <created>1705321862492</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705321862492</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added sorting function fixes latest and earliest">
+      <option name="closed" value="true" />
+      <created>1705327618878</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705327618878</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +365,8 @@
     <MESSAGE value="Added solution to problem 3" />
     <MESSAGE value="adding a check for an empty string" />
     <MESSAGE value="added practice for third lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="added practice for third lesson" />
+    <MESSAGE value="added homework problem for fourth lecture" />
+    <MESSAGE value="added sorting function fixes latest and earliest" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sorting function fixes latest and earliest" />
   </component>
 </project>
