@@ -21,12 +21,12 @@ radius = 6
 circle_length = 2*math.pi*radius
 print(f'circle length is {circle_length}')
 
-area_of_a_circle = math.pi*radius**2
-print(f'area of a circle is {area_of_a_circle}')
+area_circle = math.pi*radius**2
+print(f'area of a circle is {area_circle}')
 
 
 #задание 3
 dollar_exchange_rate = 38.4828
-amount_equal_to_a_dollar = 1000
-amount_equal_to_a_dollar = float(dollar_exchange_rate)
-print(round(amount_equal_to_a_dollar, 2))
+amount_equal_dollar = 1000
+amount_equal_dollar = float(dollar_exchange_rate)
+print(round(amount_equal_dollar, 2))
