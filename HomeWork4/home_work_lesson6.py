@@ -54,5 +54,5 @@ name_list = ['Alex', 'Alesha', 'Sasha', 'Mariia', 'Gena', 'Kateryna']
 surname_list = ['Williams', 'Stud', 'Zeus', 'Brown', 'Taylor', 'Jackson']
 location_list = ['Colorado', 'Florida', 'Idaho', 'Indiana']
 
-finali_dict = random_dict_items(name_list, surname_list, location_list)
-print(finali_dict)
+final_dict = random_dict_items(name_list, surname_list, location_list)
+print(final_dict)
