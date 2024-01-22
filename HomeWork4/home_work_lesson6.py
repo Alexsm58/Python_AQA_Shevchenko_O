@@ -3,11 +3,11 @@ import random
 
 #завдання 1
 def find_the_same(list1, list2):
-    #Функцію для знаходження однакових данних в списках
+    #finding identical data in lists
     set_list1 = set(list1)
     set_list2 = set(list2)
-    same_set = set_list1.intersection(set_list2)    #шукаємо однакові данні у списках
-    return sorted(list(same_set))   #повертаємо вже відсортований результат однакових даних з типом list
+    same_set = set_list1.intersection(set_list2)    #we are looking for the same data in the lists
+    return sorted(list(same_set))   #we return the sorted result of the same
 
 list1 = [12, 10, 9, 6, 4, 2]
 list2 = [12, 11, 9, 7, 5, 4]
@@ -43,19 +43,16 @@ student_performance()
 
 
 #завдання 3
-def random_dict_items(name, surname, location):
+def random_dict_items(name_list, surname_list, location_list):
     #Randomly displays values in dictionaries from lists
-    name(name_list)
-    surname(surname_list)
-    location(location_list)
-    return
+    name = random.choice(list(name_list))
+    surname = random.choice(list(surname_list))
+    location = random.choice(list(location_list))
+    return{'name': name, 'surname': surname, 'location': location}
+
 name_list = ['Alex', 'Alesha', 'Sasha', 'Mariia', 'Gena', 'Kateryna']
 surname_list = ['Williams', 'Stud', 'Zeus', 'Brown', 'Taylor', 'Jackson']
 location_list = ['Colorado', 'Florida', 'Idaho', 'Indiana']
 
-name = random.choice(list(name_list))
-surname = random.choice(list(surname_list))
-location = random.choice(list(location_list))
-
-finali_dict = {'name': name, 'surname': surname, 'location': location}
+finali_dict = random_dict_items(name_list, surname_list, location_list)
 print(finali_dict)
