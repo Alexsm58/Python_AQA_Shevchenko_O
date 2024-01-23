@@ -31,10 +31,8 @@ def student_performance():
     'Voitek':7
 }
 
-    #Calculate the average score
-    average_score = sum(students_scores.values()) / len(students_scores)
-    #Print the names of students with scores above the average
-    print('Students with scores above the average:')
+    average_score = sum(students_scores.values()) / len(students_scores)    #Calculate the average score
+    print('Students with scores above the average:')    #Print the names of students with scores above the average
     for name, value in students_scores.items():
         if value > average_score:
             print(f'{name.title()}:{value}')
@@ -45,14 +43,13 @@ student_performance()
 #завдання 3
 def random_dict_items(name_list, surname_list, location_list):
     #Randomly displays values in dictionaries from lists
-    name = random.choice(list(name_list))
-    surname = random.choice(list(surname_list))
-    location = random.choice(list(location_list))
-    return{'name': name, 'surname': surname, 'location': location}
+    name = random.choice(name_list)    #returns a dictionary with a randomly selected value
+    surname = random.choice(surname_list)
+    location = random.choice(location_list)
+    return{'name': name, 'surname': surname, 'location': location}  #returns a dictionary containing random values
 
 name_list = ['Alex', 'Alesha', 'Sasha', 'Mariia', 'Gena', 'Kateryna']
 surname_list = ['Williams', 'Stud', 'Zeus', 'Brown', 'Taylor', 'Jackson']
 location_list = ['Colorado', 'Florida', 'Idaho', 'Indiana']
-
-final_dict = random_dict_items(name_list, surname_list, location_list)
+final_dict = random_dict_items(name_list, surname_list, location_list)  #save the resulting dictionary in the 'final_dict' variable
 print(final_dict)

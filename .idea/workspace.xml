@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="corrected the description for problems 1, 2, 3 and the solution to problem 3" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="correction of the function name in task 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork4/home_work_lesson6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork4/home_work_lesson6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -380,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705956495718</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="correction of the function name in task 3">
+      <option name="closed" value="true" />
+      <created>1705957319494</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1705957319494</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,6 +430,7 @@
     <MESSAGE value="add macros" />
     <MESSAGE value="homework draft 4" />
     <MESSAGE value="corrected the description for problems 1, 2, 3 and the solution to problem 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected the description for problems 1, 2, 3 and the solution to problem 3" />
+    <MESSAGE value="correction of the function name in task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction of the function name in task 3" />
   </component>
 </project>
