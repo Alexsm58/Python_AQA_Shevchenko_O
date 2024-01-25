@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="correction of the function name in task 3">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added comments to task 1, 2, 3">
+      <change afterPath="$PROJECT_DIR$/HomeWork5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/lambda_func_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork4/home_work_lesson6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork4/home_work_lesson6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.check_funktion_type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funk_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_praсtice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.macros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.check_funktion_type.executor": "Run",
+    "Python.funk_exemple.executor": "Run",
+    "Python.home_work_lesson2.executor": "Run",
+    "Python.home_work_lesson3.executor": "Run",
+    "Python.home_work_lesson4.executor": "Run",
+    "Python.home_work_lesson6.executor": "Run",
+    "Python.home_work_lesson7.executor": "Run",
+    "Python.lambda_func_example.executor": "Run",
+    "Python.list_praсtice.executor": "Run",
+    "Python.logics_example.executor": "Run",
+    "Python.macros.executor": "Run",
+    "Python.syntax_exemple.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.home_work_lesson6">
+}]]></component>
+  <component name="RunManager" selected="Python.home_work_lesson7">
     <configuration name="funk_exemple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -75,52 +79,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home_work_lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork1" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork1/home_work_lesson2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="home_work_lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork2" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="home_work_lesson6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -135,6 +93,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork4/home_work_lesson6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home_work_lesson7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambda_func_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/lambda_func_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.home_work_lesson7" />
+        <item itemvalue="Python.lambda_func_example" />
         <item itemvalue="Python.home_work_lesson6" />
         <item itemvalue="Python.funk_exemple" />
         <item itemvalue="Python.macros" />
-        <item itemvalue="Python.home_work_lesson3" />
-        <item itemvalue="Python.home_work_lesson2" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705957319494</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added comments to task 1, 2, 3">
+      <option name="closed" value="true" />
+      <created>1706053645282</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1706053645282</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="deleted objects" />
     <MESSAGE value="use of keywords" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task" />
@@ -431,6 +440,7 @@
     <MESSAGE value="homework draft 4" />
     <MESSAGE value="corrected the description for problems 1, 2, 3 and the solution to problem 3" />
     <MESSAGE value="correction of the function name in task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction of the function name in task 3" />
+    <MESSAGE value="added comments to task 1, 2, 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comments to task 1, 2, 3" />
   </component>
 </project>
