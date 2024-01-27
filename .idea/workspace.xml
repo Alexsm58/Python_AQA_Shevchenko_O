@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added homework number 5">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="corrected the text in the print">
+      <change afterPath="$PROJECT_DIR$/HomeWork6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork6/hpme_work_lesson8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork6/regular_expressions_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +26,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2aP8t6dXUtQOofNLnxMz3WrQAem" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,27 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.check_funktion_type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funk_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lambda_func_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_praсtice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.macros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.home_work_lesson2.executor": "Run",
+    "Python.home_work_lesson3.executor": "Run",
+    "Python.home_work_lesson7.executor": "Run",
+    "Python.logics_example.executor": "Run",
+    "Python.regular_expressions_example.executor": "Run",
+    "Python.syntax_exemple.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.home_work_lesson7">
-    <configuration name="funk_exemple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.regular_expressions_example">
+    <configuration name="home_work_lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork4/funk_exemple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork1/home_work_lesson2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home_work_lesson6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home_work_lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork4" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.12 (Python_AQA_Shevchenko_O)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork2" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork4/home_work_lesson6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,8 +108,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Python_AQA_Shevchenko_O)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" />
@@ -121,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lambda_func_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="logics_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/lambda_func_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork2/logics_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="macros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regular_expressions_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork3/macros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/regular_expressions_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.regular_expressions_example" />
         <item itemvalue="Python.home_work_lesson7" />
-        <item itemvalue="Python.lambda_func_example" />
-        <item itemvalue="Python.home_work_lesson6" />
-        <item itemvalue="Python.funk_exemple" />
-        <item itemvalue="Python.macros" />
+        <item itemvalue="Python.home_work_lesson3" />
+        <item itemvalue="Python.logics_example" />
+        <item itemvalue="Python.home_work_lesson2" />
       </list>
     </recent_temporary>
   </component>
@@ -287,127 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704928809389</updated>
     </task>
-    <task id="LOCAL-00013" summary="added a solution to the fourth problem with float">
+    <task id="LOCAL-00013" summary="corrected the text in the print">
       <option name="closed" value="true" />
-      <created>1704988525135</created>
+      <created>1706383143029</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1704988525135</updated>
+      <updated>1706383143029</updated>
     </task>
-    <task id="LOCAL-00014" summary="Added solution to problem 3">
-      <option name="closed" value="true" />
-      <created>1705073796667</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1705073796667</updated>
-    </task>
-    <task id="LOCAL-00015" summary="adding a check for an empty string">
-      <option name="closed" value="true" />
-      <created>1705074333991</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1705074333991</updated>
-    </task>
-    <task id="LOCAL-00016" summary="added practice for third lesson">
-      <option name="closed" value="true" />
-      <created>1705190261720</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1705190261720</updated>
-    </task>
-    <task id="LOCAL-00017" summary="added homework problem for fourth lecture">
-      <option name="closed" value="true" />
-      <created>1705321862492</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1705321862492</updated>
-    </task>
-    <task id="LOCAL-00018" summary="added sorting function fixes latest and earliest">
-      <option name="closed" value="true" />
-      <created>1705327618878</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1705327618878</updated>
-    </task>
-    <task id="LOCAL-00019" summary="removed extra padding">
-      <option name="closed" value="true" />
-      <created>1705334397815</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1705334397815</updated>
-    </task>
-    <task id="LOCAL-00020" summary="shortened variable names">
-      <option name="closed" value="true" />
-      <created>1705337100622</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1705337100622</updated>
-    </task>
-    <task id="LOCAL-00021" summary="swapped conditional statements">
-      <option name="closed" value="true" />
-      <created>1705347484811</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1705347484811</updated>
-    </task>
-    <task id="LOCAL-00022" summary="add macros">
-      <option name="closed" value="true" />
-      <created>1705586102240</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1705586102240</updated>
-    </task>
-    <task id="LOCAL-00023" summary="homework draft 4">
-      <option name="closed" value="true" />
-      <created>1705942212144</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1705942212144</updated>
-    </task>
-    <task id="LOCAL-00024" summary="corrected the description for problems 1, 2, 3 and the solution to problem 3">
-      <option name="closed" value="true" />
-      <created>1705956495718</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1705956495718</updated>
-    </task>
-    <task id="LOCAL-00025" summary="correction of the function name in task 3">
-      <option name="closed" value="true" />
-      <created>1705957319494</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1705957319494</updated>
-    </task>
-    <task id="LOCAL-00026" summary="added comments to task 1, 2, 3">
-      <option name="closed" value="true" />
-      <created>1706053645282</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1706053645282</updated>
-    </task>
-    <task id="LOCAL-00027" summary="added homework number 5">
-      <option name="closed" value="true" />
-      <created>1706146827013</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1706146827013</updated>
-    </task>
-    <option name="localTasksCounter" value="28" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -422,6 +311,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleted objects" />
+    <MESSAGE value="use of keywords" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task&#10;added solving the second and third problems" />
@@ -432,21 +323,8 @@
     <MESSAGE value="added a solution to the first problem" />
     <MESSAGE value="added a solution to the first problem&#10;added a solution to the second problem" />
     <MESSAGE value="added a solution to the fourth problem" />
-    <MESSAGE value="added a solution to the fourth problem with float" />
-    <MESSAGE value="Added solution to problem 3" />
-    <MESSAGE value="adding a check for an empty string" />
-    <MESSAGE value="added practice for third lesson" />
-    <MESSAGE value="added homework problem for fourth lecture" />
-    <MESSAGE value="added sorting function fixes latest and earliest" />
-    <MESSAGE value="removed extra padding" />
-    <MESSAGE value="shortened variable names" />
-    <MESSAGE value="swapped conditional statements" />
-    <MESSAGE value="add macros" />
-    <MESSAGE value="homework draft 4" />
-    <MESSAGE value="corrected the description for problems 1, 2, 3 and the solution to problem 3" />
-    <MESSAGE value="correction of the function name in task 3" />
-    <MESSAGE value="added comments to task 1, 2, 3" />
-    <MESSAGE value="added homework number 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework number 5" />
+    <MESSAGE value="downloaded the updates to my computer" />
+    <MESSAGE value="corrected the text in the print" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected the text in the print" />
   </component>
 </project>
