@@ -110,3 +110,39 @@ for i in result:
     print(i, type(i))
 
 #'(-|\.)'
+
+
+#my practice
+'''i = '8AC /ACDC/DCAC/DCAC/DCAC/DCAC/DCAC'
+result = re.search('DC', i)
+print(result)
+result = re.search('DC', i)
+print(result[0])
+result = re.findall('DC', i)
+print(result)
+result = re.split('/', i)
+print(result)
+result = re.split('/', i,  maxsplit=2)
+print(result)
+result = re.sub('A', 'P', i, )
+print(result)
+result = re.fullmatch('AC/ACDC/DCAC/DCAC/DCAC/DCAC/DCAC', i)
+print(result)
+result = re.search('AC/AC.C', i)
+print(result)
+result = re.search(r'\d', i)    #выведет любую цыфру
+print(result)
+result = re.search(r'\D', i)    #выведет любой символ кроме цыфры
+print(result)
+result = re.search(r'\s',i)  #выведет любой пробел или табуляцию
+print(result)
+result = re.search(r'\S', i)    #выведет любой cимвол кроме пробела/табуляции
+print(result)
+result = re.search(r'\w', i)    #выведет любую буквуб цыфру или нижнее подчеркивание
+print(result)
+result = re.search(r'\W', i)    #выведет любую не буквуб цыфру не нижнее неподчеркивание
+print(result)
+result =re.search(r'\bD', i)  #укажет начало или конец слова
+print(result)
+result =re.search(r'\BD', i)  #укажет середмну слова
+print(result)'''
