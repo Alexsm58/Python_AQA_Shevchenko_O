@@ -7,7 +7,7 @@ def check_string():
     pattern = r'^[a-zA-Z0-9_]+$'
     my_regular = re.search(pattern, my_string)   #I used the 'search' function to search throughout the entire string
     print(my_regular)
-    if my_regular is not None:  #displayed in a column
+    if my_regular is not None:
         print(True)
     else:
         print(False)
@@ -21,7 +21,7 @@ def delete_brackets():
     text_with_brackets = ['example (.ua)', 'github (.com)', 'stackoverflow (.com)']
     pattern = [re.sub(r'[(). ]|com|ua', '', items) for items in text_with_brackets]
     print(pattern)
-    for item in pattern:
+    for item in pattern:    #displayed in a column
         text = item.split()
         print(item)
 
