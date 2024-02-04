@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="corrected the text in the print">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="changed commit in second task">
+      <change afterPath="$PROJECT_DIR$/HomeWork7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/birthday.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/birthday.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/csv_exemple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork7/practice_lesson_10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork6/hpme_work_lesson8.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork6/hpme_work_lesson8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,24 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.home_work_lesson2.executor": "Run",
-    "Python.home_work_lesson3.executor": "Run",
-    "Python.home_work_lesson7.executor": "Run",
-    "Python.hpme_work_lesson8.executor": "Run",
-    "Python.logics_example.executor": "Run",
-    "Python.regular_expressions_example.executor": "Run",
-    "Python.syntax_exemple.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.csv_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hpme_work_lesson8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_lesson_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regular_expressions_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.hpme_work_lesson8">
-    <configuration name="home_work_lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.csv_exemple">
+    <configuration name="csv_exemple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,12 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (Python_AQA_Shevchenko_O)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork2" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork7" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork2/home_work_lesson3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork7/csv_exemple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logics_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="practice_lesson_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork2/logics_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork7/practice_lesson_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.csv_exemple" />
+        <item itemvalue="Python.practice_lesson_10" />
         <item itemvalue="Python.hpme_work_lesson8" />
         <item itemvalue="Python.regular_expressions_example" />
         <item itemvalue="Python.home_work_lesson7" />
-        <item itemvalue="Python.home_work_lesson3" />
-        <item itemvalue="Python.logics_example" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +306,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706383143029</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added commit in first task">
+      <option name="closed" value="true" />
+      <created>1706660769105</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706660769105</updated>
+    </task>
+    <task id="LOCAL-00015" summary="changed commit in second task">
+      <option name="closed" value="true" />
+      <created>1706660915576</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706660915576</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +351,8 @@
     <MESSAGE value="added a solution to the fourth problem" />
     <MESSAGE value="downloaded the updates to my computer" />
     <MESSAGE value="corrected the text in the print" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected the text in the print" />
+    <MESSAGE value="added commit in first task" />
+    <MESSAGE value="changed commit in second task" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed commit in second task" />
   </component>
 </project>
