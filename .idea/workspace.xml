@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="changed commit in second task">
-      <change afterPath="$PROJECT_DIR$/HomeWork7/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork7/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork7/birthday.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork7/birthday.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork7/csv_exemple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork7/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork7/practice_lesson_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added lesson notes lesson10">
+      <change afterPath="$PROJECT_DIR$/HomeWork8/file_all_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/file_my_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/file_my_subtraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation/file_my_separation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation/packege_main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation/packege_main/file_main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork6/hpme_work_lesson8.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork6/hpme_work_lesson8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +45,25 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.csv_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_all_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_separation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_separation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_subtraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
     &quot;Python.hpme_work_lesson8.executor&quot;: &quot;Run&quot;,
     &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_func.executor&quot;: &quot;Run&quot;,
     &quot;Python.practice_lesson_10.executor&quot;: &quot;Run&quot;,
     &quot;Python.regular_expressions_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_calculations_file.executor&quot;: &quot;Run&quot;,
     &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -64,8 +73,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.csv_exemple">
-    <configuration name="csv_exemple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.file_main">
+    <configuration name="file_all_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork7/csv_exemple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/file_all_func.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home_work_lesson7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,12 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (Python_AQA_Shevchenko_O)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation/packege_main" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/home_work_lesson7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation/packege_main/file_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hpme_work_lesson8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_my_separation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/hpme_work_lesson8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/packege_my_separation/file_my_separation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice_lesson_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_my_subtraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork7/practice_lesson_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/packege_my_sum/packege_my_subtraction/file_my_subtraction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regular_expressions_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_my_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8/packege_my_sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/regular_expressions_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/packege_my_sum/file_my_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.csv_exemple" />
-        <item itemvalue="Python.practice_lesson_10" />
-        <item itemvalue="Python.hpme_work_lesson8" />
-        <item itemvalue="Python.regular_expressions_example" />
-        <item itemvalue="Python.home_work_lesson7" />
+        <item itemvalue="Python.file_main" />
+        <item itemvalue="Python.file_my_separation" />
+        <item itemvalue="Python.file_my_subtraction" />
+        <item itemvalue="Python.file_my_sum" />
+        <item itemvalue="Python.file_all_func" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706660915576</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added lesson notes lesson10">
+      <option name="closed" value="true" />
+      <created>1707054003414</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1707054003414</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,6 +374,7 @@
     <MESSAGE value="corrected the text in the print" />
     <MESSAGE value="added commit in first task" />
     <MESSAGE value="changed commit in second task" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed commit in second task" />
+    <MESSAGE value="added lesson notes lesson10" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lesson notes lesson10" />
   </component>
 </project>
