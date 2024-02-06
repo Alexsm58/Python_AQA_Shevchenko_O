@@ -1,8 +1,8 @@
 import re
 
 #Завдання 1
-#сhecking a string for uppercase, lowercase letters, digits, and underscores
 def check_string():
+    # сhecking a string for uppercase, lowercase letters, digits, and underscores
     my_string = '1_Ahfg_erjf_rfrerrf_r_rfrfre_eJJJ_JJJJ_0_9'
     pattern = r'^[a-zA-Z0-9_]+$'
     my_regular = re.search(pattern, my_string)   #I used the 'search' function to search throughout the entire string
@@ -16,8 +16,8 @@ check_string()
 
 
 #Завдання 2
-#to remove the content within parentheses, including the parentheses and the domain
 def delete_brackets():
+    # to remove the content within parentheses, including the parentheses and the domain
     text_with_brackets = ['example (.ua)', 'github (.com)', 'stackoverflow (.com)']
     pattern = [re.sub(r'[(). ]|com|ua', '', items) for items in text_with_brackets]
     print(pattern)

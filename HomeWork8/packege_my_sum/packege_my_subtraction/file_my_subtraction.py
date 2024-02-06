@@ -1,5 +1,5 @@
 from HomeWork8.packege_my_sum.packege_my_subtraction.packege_my_separation.packege_main.file_main import my_subtraction, my_separation, my_sum
-
+#завдання номер 1
 salary = 120
 expenses = 2
 
