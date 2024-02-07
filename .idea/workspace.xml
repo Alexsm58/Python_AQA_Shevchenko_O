@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added a solution to the task 2">
-      <change afterPath="$PROJECT_DIR$/HomeWork8/csv_file_operations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork8/csv_file_operations/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork8/csv_file_operations/file_csv_file_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork8/csv_file_operations/list_file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork8/display_user_date/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork8/display_user_date/authors.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork8/display_user_date/file_display_user_date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork8/list_surnames/names.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_01_2024_01_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_01_2024_01_02__Changes_.xml" beforeDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added a solution to the task 5">
+      <change afterPath="$PROJECT_DIR$/HomeWork8/csv_file_operations/new_file.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8/csv_file_operations/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8/csv_file_operations/file_csv_file_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8/csv_file_operations/file_csv_file_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8/csv_file_operations/list_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8/csv_file_operations/write.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8/csv_file_operations/write.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8/display_user_date/file_display_user_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8/display_user_date/file_display_user_date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8/get_domain_names/file_get_domain_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8/get_domain_names/file_get_domain_names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork8/list_surnames/file_surnames.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8/list_surnames/file_surnames.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +41,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -87,7 +83,7 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.file_csv_file_operations">
+  <component name="RunManager" selected="Python.file_surnames">
     <configuration name="_pydev_execfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -200,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file_csv_file_operations" />
+        <item itemvalue="Python.file_surnames" />
         <item itemvalue="Python.file_get_domain_names" />
+        <item itemvalue="Python.file_csv_file_operations" />
         <item itemvalue="Python._pydev_execfile" />
         <item itemvalue="Python.file_display_user_date" />
-        <item itemvalue="Python.file_surnames" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707093043793</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added a solution to the task 5">
+      <option name="closed" value="true" />
+      <created>1707342221937</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1707342221937</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,6 +406,7 @@
     <MESSAGE value="added lesson notes lesson10" />
     <MESSAGE value="added task 1 in homework 8" />
     <MESSAGE value="added optimization import road task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="added optimization import road task 1" />
+    <MESSAGE value="added a solution to the task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a solution to the task 5" />
   </component>
 </project>

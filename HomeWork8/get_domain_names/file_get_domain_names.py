@@ -1,4 +1,5 @@
 import re
+
 #завдання 2
 def domains():
     #get domain names in column, don't display dots

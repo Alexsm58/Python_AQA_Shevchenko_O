@@ -1,5 +1,0 @@
-name,height,age
-Ann,175,25
-Alex,190,28
-Yaroslav,185,20
-Cristina,165,25
