@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added description for tasks 5,4,3">
-      <change afterPath="$PROJECT_DIR$/HomeWork9/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork9/iterator_example.py" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added fix wrong name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -375,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707350129071</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="added fix wrong name">
+      <option name="closed" value="true" />
+      <created>1707490957484</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1707490957484</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -411,6 +417,7 @@
     <MESSAGE value="added optimization import road task 1" />
     <MESSAGE value="added a solution to the task 5" />
     <MESSAGE value="added description for tasks 5,4,3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added description for tasks 5,4,3" />
+    <MESSAGE value="added fix wrong name" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fix wrong name" />
   </component>
 </project>
