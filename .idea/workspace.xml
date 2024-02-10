@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added fix wrong name task 6">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork8/home_work_lesson11.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8/home_work_lesson11.py" afterDir="false" />
-    </list>
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task 1 and 2 for lesson 11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -391,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707492895629</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="added task 1 and 2 for lesson 11">
+      <option name="closed" value="true" />
+      <created>1707528325854</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1707528325854</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,6 +434,7 @@
     <MESSAGE value="added description for tasks 5,4,3" />
     <MESSAGE value="added fix wrong name" />
     <MESSAGE value="added fix wrong name task 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="added fix wrong name task 6" />
+    <MESSAGE value="added task 1 and 2 for lesson 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="added task 1 and 2 for lesson 11" />
   </component>
 </project>
