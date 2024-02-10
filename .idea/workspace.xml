@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added fix wrong name">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added fix wrong name task 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork8/home_work_lesson11.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork8/home_work_lesson11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
     &quot;Python.file_my_subtraction.executor&quot;: &quot;Run&quot;,
     &quot;Python.file_my_sum.executor&quot;: &quot;Run&quot;,
     &quot;Python.file_surnames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson11.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
     &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
@@ -76,29 +78,7 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.iterator_example">
-    <configuration name="file_csv_file_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8/csv_file_operations" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/csv_file_operations/file_csv_file_operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.home_work_lesson11">
     <configuration name="file_display_user_date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -165,6 +145,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="home_work_lesson11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/home_work_lesson11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="iterator_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -189,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.home_work_lesson11" />
         <item itemvalue="Python.iterator_example" />
         <item itemvalue="Python.file_display_user_date" />
         <item itemvalue="Python.file_surnames" />
         <item itemvalue="Python.file_get_domain_names" />
-        <item itemvalue="Python.file_csv_file_operations" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707490957484</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added fix wrong name task 6">
+      <option name="closed" value="true" />
+      <created>1707492895629</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1707492895629</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,6 +428,7 @@
     <MESSAGE value="added a solution to the task 5" />
     <MESSAGE value="added description for tasks 5,4,3" />
     <MESSAGE value="added fix wrong name" />
-    <option name="LAST_COMMIT_MESSAGE" value="added fix wrong name" />
+    <MESSAGE value="added fix wrong name task 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fix wrong name task 6" />
   </component>
 </project>
