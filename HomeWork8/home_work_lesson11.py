@@ -1,4 +1,5 @@
 import random
+
 #завдання 1
 def list_100():
     # Use list comprehension to create a list that
