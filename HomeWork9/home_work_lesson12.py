@@ -8,8 +8,8 @@ def add_day_func():
     delta_date = dt.timedelta(days=1910)
     result_year_delta = year_date - delta_date
     result_day_delta = and_date - delta_date
-    print('Отримані данні року: ', result_year_delta)
-    print('Отримані данні дня: ', result_day_delta)
+    print('Received year data: ', result_year_delta)
+    print('Received data of the day: ', result_day_delta)
     if result_year_delta.timestamp() > 0:
         print(True)
     else:
