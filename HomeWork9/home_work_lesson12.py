@@ -2,6 +2,7 @@ import datetime as dt
 
 #завдання 1
 def add_day_func():
+    #subtracts a specified number of days from a date
     year_date = dt.datetime(2023, 5, 3,14,5,6)
     and_date = dt.timedelta(weeks=1, days=10, seconds=4)
     delta_date = dt.timedelta(days=1910)
@@ -22,31 +23,18 @@ add_day_func()
 
 
 #завдання 2
-
 def my_birthday():
+    #calculate the age and return
     my_date = dt.datetime(1999, 6, 1)
     today = dt.datetime.now()
     days_lived = today - my_date
-    my_birthday_date = today - days_lived  # Определение даты дня рождения
-    time_format_string = '%y-%m-%d %I:%M:%S %p'
-    format_date = my_birthday_date.strftime(time_format_string)
-    print('Прожив днів: ', days_lived)
-    print('Прожив секунд: ', today.timestamp() - my_date.timestamp())
-    print('Твоя дата народження в кастомному форматі: ', format_date)
+    time_format_string = '%y-%m-%d %I:%M:%S %p'    #custom date format
+    format_date = my_date.strftime(time_format_string)    #assigning a new format
+    print('Lived for days: ', days_lived)
+    print('Lived for seconds: ', today.timestamp() - my_date.timestamp())
+    print('Your date of birth in a custom format: ', format_date)
 
 my_birthday()
-
-'''def my_birthday():
-    my_date = dt.datetime(1999, 6, 1).timestamp()
-    today = dt.datetime.now().timestamp()
-    days_lived = today - my_date
-    my_days_lived = dt.datetime.fromtimestamp(days_lived)
-    time_format_string = '%Y-%m-%d %I %M %S %p'
-    format_date = my_days_lived.strftime(time_format_string)
-    print('Ти прожив днів: ', my_days_lived)
-    print('Ти прожив в секундах: ', days_lived)
-    print(format_date)
-my_birthday()'''
 
 
 #завдання 3
