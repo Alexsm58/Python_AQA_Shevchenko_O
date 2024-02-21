@@ -12,6 +12,7 @@ class Employee(ABC):
     def chill(self):
         print('chillin')
 
+
 class Engineer(Employee):
     def __init__(self):
         super().__init__(4000, 'Engineer')
