@@ -23,7 +23,6 @@ class Museum(ABC):    #add abstract class
         self.__status = options
 
 
-
 class PaintingsArt(Museum):    #inheritance
     def __init__(self, creation_year, assessed_value, room):
         super().__init__(creation_year, assessed_value, room)
