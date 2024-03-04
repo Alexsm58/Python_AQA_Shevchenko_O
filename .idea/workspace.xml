@@ -4,12 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task1 in homework 11 lesson 14">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task 1 and 2 for lesson 13">
+      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/new.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/test_adding_removing_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/adapter_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/example_second.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/example_to_read.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/example_to_read.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/example_to_read2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/for_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/home_work_lesson17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/prakticsfile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/csv_proxy_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/csv_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/example_to_read.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/singleton_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork11/home_work_lesspn14.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork11/home_work_lesspn14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork12/home_work_lesson15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork12/home_work_lesson15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,53 +59,64 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.__init__ (1).executor": "Run",
-    "Python.__init__ (2).executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python._pydev_execfile.executor": "Run",
-    "Python.csv_exemple.executor": "Run",
-    "Python.decorators_example.executor": "Run",
-    "Python.file_all_func.executor": "Run",
-    "Python.file_csv_file_operations.executor": "Run",
-    "Python.file_display_user_date.executor": "Run",
-    "Python.file_get_domain_names.executor": "Run",
-    "Python.file_main.executor": "Run",
-    "Python.file_my_separation (1).executor": "Run",
-    "Python.file_my_separation.executor": "Run",
-    "Python.file_my_subtraction.executor": "Run",
-    "Python.file_my_sum.executor": "Run",
-    "Python.file_surnames.executor": "Run",
-    "Python.home_work_lesson12.executor": "Run",
-    "Python.home_work_lesson15.executor": "Run",
-    "Python.home_work_lesson2.executor": "Run",
-    "Python.home_work_lesson3.executor": "Run",
-    "Python.home_work_lesson7.executor": "Run",
-    "Python.home_work_lesspn14.executor": "Run",
-    "Python.hpme_work_lesson8.executor": "Run",
-    "Python.logics_example.executor": "Run",
-    "Python.math_func.executor": "Run",
-    "Python.practice_file.executor": "Run",
-    "Python.practice_lesson_10.executor": "Run",
-    "Python.regular_expressions_example.executor": "Run",
-    "Python.second_calculations_file.executor": "Run",
-    "Python.syntax_exemple.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_adding_removing_row.TestString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adapter_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adding_removing_row.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorators_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_all_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_csv_file_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_display_user_date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_get_domain_names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_separation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_separation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_subtraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_surnames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesspn14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hpme_work_lesson8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterator_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_lesson_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regular_expressions_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_calculations_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13\AddingRemovingRow" />
+      <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13" />
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.home_work_lesspn14">
-    <configuration name="decorators_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.adding_removing_row">
+    <configuration name="adapter_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork8/decorators_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/adapter_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home_work_lesson12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="adding_removing_row" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13/AddingRemovingRow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork9/home_work_lesson12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home_work_lesson15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork12/home_work_lesson15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/for_practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="home_work_lesspn14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home_work_lesson17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork11/home_work_lesspn14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/home_work_lesson17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,35 +204,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for HomeWork13.AddingRemovingRow.test_adding_removing_row.TestString" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork12/practice_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;HomeWork13.AddingRemovingRow.test_adding_removing_row.TestString&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.home_work_lesspn14" />
-        <item itemvalue="Python.practice_file" />
-        <item itemvalue="Python.home_work_lesson15" />
-        <item itemvalue="Python.decorators_example" />
-        <item itemvalue="Python.home_work_lesson12" />
+        <item itemvalue="Python.adding_removing_row" />
+        <item itemvalue="Python tests.Python tests for HomeWork13.AddingRemovingRow.test_adding_removing_row.TestString" />
+        <item itemvalue="Python.home_work_lesson17" />
+        <item itemvalue="Python.for_practice" />
+        <item itemvalue="Python.adapter_example" />
       </list>
     </recent_temporary>
   </component>
@@ -373,23 +397,63 @@
       <option name="project" value="LOCAL" />
       <updated>1707342221937</updated>
     </task>
-    <task id="LOCAL-00020" summary="added comments in task 1 and 2">
+    <task id="LOCAL-00020" summary="added description for tasks 5,4,3">
       <option name="closed" value="true" />
-      <created>1707917224675</created>
+      <created>1707350129071</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1707917224675</updated>
+      <updated>1707350129071</updated>
     </task>
-    <task id="LOCAL-00021" summary="added task1 in homework 11 lesson 14">
+    <task id="LOCAL-00021" summary="added fix wrong name">
       <option name="closed" value="true" />
-      <created>1708540543016</created>
+      <created>1707490957484</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1708540543016</updated>
+      <updated>1707490957484</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added fix wrong name task 6">
+      <option name="closed" value="true" />
+      <created>1707492895629</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1707492895629</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added task 1 and 2 for lesson 11">
+      <option name="closed" value="true" />
+      <created>1707528325854</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1707528325854</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added summary for lesson 11">
+      <option name="closed" value="true" />
+      <created>1707593177340</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1707593177340</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added notes for lesson 11">
+      <option name="closed" value="true" />
+      <created>1707593230472</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1707593230472</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added task 1 and 2 for lesson 13">
+      <option name="closed" value="true" />
+      <created>1708259009176</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1708259009176</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -404,8 +468,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="deleted objects" />
-    <MESSAGE value="use of keywords" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task&#10;added solving the second and third problems" />
@@ -424,8 +486,13 @@
     <MESSAGE value="added task 1 in homework 8" />
     <MESSAGE value="added optimization import road task 1" />
     <MESSAGE value="added a solution to the task 5" />
-    <MESSAGE value="added comments in task 1 and 2" />
-    <MESSAGE value="added task1 in homework 11 lesson 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="added task1 in homework 11 lesson 14" />
+    <MESSAGE value="added description for tasks 5,4,3" />
+    <MESSAGE value="added fix wrong name" />
+    <MESSAGE value="added fix wrong name task 6" />
+    <MESSAGE value="added task 1 and 2 for lesson 11" />
+    <MESSAGE value="added summary for lesson 11" />
+    <MESSAGE value="added notes for lesson 11" />
+    <MESSAGE value="added task 1 and 2 for lesson 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="added task 1 and 2 for lesson 13" />
   </component>
 </project>

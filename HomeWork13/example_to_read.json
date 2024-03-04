@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Jhon",
+        "surname": "Dow",
+        "group": "python",
+        "birthday": "12"
+    },
+    {
+        "name": "mister",
+        "surname": "twister",
+        "group": "backend",
+        "birthday": "2"
+    },
+    {
+        "name": "Missis",
+        "surname": "Porrige",
+        "group": "DevOps",
+        "birthday": "7"
+    }
+]
