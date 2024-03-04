@@ -4,32 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task 1 and 2 for lesson 13">
-      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/new.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/test_adding_removing_row.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/adapter_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/example.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/example.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/example_second.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/example_to_read.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/example_to_read.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/example_to_read2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/for_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/home_work_lesson17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/prakticsfile.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/csv_proxy_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/csv_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/example_to_read.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/proxy_example/reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork13/singleton_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task 1 for lesson 14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/new.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/test_adding_removing_row.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/test_adding_removing_row.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork13/for_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/for_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork13/prakticsfile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/file_practice.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,55 +40,58 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_adding_removing_row.TestString.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__ (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adapter_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adding_removing_row.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decorators_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exceptions_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_all_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_csv_file_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_display_user_date.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_get_domain_names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_separation (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_separation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_subtraction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_surnames.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesspn14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hpme_work_lesson8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterator_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.newfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_lesson_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.regular_expressions_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.second_calculations_file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_adding_removing_row.TestCSV.executor": "Run",
+    "Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor": "Run",
+    "Python tests.Python tests for test_adding_removing_row.TestString.executor": "Run",
+    "Python tests.Python tests in test_adding_removing_row.py.executor": "Run",
+    "Python.__init__ (1).executor": "Run",
+    "Python.__init__ (2).executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.adapter_example.executor": "Run",
+    "Python.adding_removing_row.executor": "Run",
+    "Python.csv_exemple.executor": "Run",
+    "Python.decorators_example.executor": "Run",
+    "Python.exceptions_example.executor": "Run",
+    "Python.file_all_func.executor": "Run",
+    "Python.file_csv_file_operations.executor": "Run",
+    "Python.file_display_user_date.executor": "Run",
+    "Python.file_get_domain_names.executor": "Run",
+    "Python.file_main.executor": "Run",
+    "Python.file_my_separation (1).executor": "Run",
+    "Python.file_my_separation.executor": "Run",
+    "Python.file_my_subtraction.executor": "Run",
+    "Python.file_my_sum.executor": "Run",
+    "Python.file_surnames.executor": "Run",
+    "Python.for_practice.executor": "Run",
+    "Python.home_work_lesson11.executor": "Run",
+    "Python.home_work_lesson12.executor": "Run",
+    "Python.home_work_lesson13.executor": "Run",
+    "Python.home_work_lesson15.executor": "Run",
+    "Python.home_work_lesson17.executor": "Run",
+    "Python.home_work_lesson2.executor": "Run",
+    "Python.home_work_lesson3.executor": "Run",
+    "Python.home_work_lesson7.executor": "Run",
+    "Python.home_work_lesspn14.executor": "Run",
+    "Python.hpme_work_lesson8.executor": "Run",
+    "Python.iterator_example.executor": "Run",
+    "Python.logics_example.executor": "Run",
+    "Python.math_func.executor": "Run",
+    "Python.newfile.executor": "Run",
+    "Python.practice_lesson_10.executor": "Run",
+    "Python.regular_expressions_example.executor": "Run",
+    "Python.second_calculations_file.executor": "Run",
+    "Python.syntax_exemple.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13\AddingRemovingRow" />
@@ -115,29 +99,7 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.adding_removing_row">
-    <configuration name="adapter_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/adapter_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests in test_adding_removing_row.py">
     <configuration name="adding_removing_row" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -152,50 +114,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="for_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/for_practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="home_work_lesson17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/home_work_lesson17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,13 +137,58 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_adding_removing_row.TestCSV" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13/AddingRemovingRow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_adding_removing_row.TestCSV&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13/AddingRemovingRow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_adding_removing_row.TestCSV.test_add_and_remove_row&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_adding_removing_row.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13/AddingRemovingRow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork13/AddingRemovingRow/test_adding_removing_row.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_adding_removing_row.py" />
         <item itemvalue="Python.adding_removing_row" />
+        <item itemvalue="Python tests.Python tests for test_adding_removing_row.TestCSV" />
+        <item itemvalue="Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row" />
         <item itemvalue="Python tests.Python tests for HomeWork13.AddingRemovingRow.test_adding_removing_row.TestString" />
-        <item itemvalue="Python.home_work_lesson17" />
-        <item itemvalue="Python.for_practice" />
-        <item itemvalue="Python.adapter_example" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708259009176</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="added task 1 for lesson 14">
+      <option name="closed" value="true" />
+      <created>1709542707049</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709542707049</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,7 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="use of keywords&#10;update of the second lecture notes" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task&#10;added solving the second and third problems" />
     <MESSAGE value="rounding fix in problem 3" />
@@ -493,6 +463,7 @@
     <MESSAGE value="added summary for lesson 11" />
     <MESSAGE value="added notes for lesson 11" />
     <MESSAGE value="added task 1 and 2 for lesson 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="added task 1 and 2 for lesson 13" />
+    <MESSAGE value="added task 1 for lesson 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="added task 1 for lesson 14" />
   </component>
 </project>
