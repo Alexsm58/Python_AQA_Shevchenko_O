@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task 1 for lesson 14">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task 2 for lesson 14">
+      <change afterPath="$PROJECT_DIR$/HomeWork13/factories/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/factories/dish_factories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/factories/factories_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/factories/types_dishes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/factories/types_dishes/pasta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/factories/types_dishes/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/factories/types_dishes/risotto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork13/order.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/adding_removing_row.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/new.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/test_adding_removing_row.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/AddingRemovingRow/test_adding_removing_row.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork13/for_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/for_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork13/prakticsfile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork13/file_practice.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +83,7 @@
     "Python.logics_example.executor": "Run",
     "Python.math_func.executor": "Run",
     "Python.newfile.executor": "Run",
+    "Python.order.executor": "Run",
     "Python.practice_lesson_10.executor": "Run",
     "Python.regular_expressions_example.executor": "Run",
     "Python.second_calculations_file.executor": "Run",
@@ -94,12 +98,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13\AddingRemovingRow" />
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13" />
+      <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13\AddingRemovingRow" />
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_adding_removing_row.py">
+  <component name="RunManager" selected="Python.order">
     <configuration name="adding_removing_row" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -122,19 +126,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for HomeWork13.AddingRemovingRow.test_adding_removing_row.TestString" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;HomeWork13.AddingRemovingRow.test_adding_removing_row.TestString&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_adding_removing_row.TestCSV" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -184,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.order" />
         <item itemvalue="Python tests.Python tests in test_adding_removing_row.py" />
         <item itemvalue="Python.adding_removing_row" />
         <item itemvalue="Python tests.Python tests for test_adding_removing_row.TestCSV" />
         <item itemvalue="Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row" />
-        <item itemvalue="Python tests.Python tests for HomeWork13.AddingRemovingRow.test_adding_removing_row.TestString" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709542707049</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added task 2 for lesson 14">
+      <option name="closed" value="true" />
+      <created>1709594701716</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1709594701716</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -439,7 +458,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task" />
     <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task&#10;added solving the second and third problems" />
     <MESSAGE value="rounding fix in problem 3" />
     <MESSAGE value="added lesson notes 3" />
@@ -464,6 +482,7 @@
     <MESSAGE value="added notes for lesson 11" />
     <MESSAGE value="added task 1 and 2 for lesson 13" />
     <MESSAGE value="added task 1 for lesson 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="added task 1 for lesson 14" />
+    <MESSAGE value="added task 2 for lesson 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="added task 2 for lesson 14" />
   </component>
 </project>
