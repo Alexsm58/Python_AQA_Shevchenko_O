@@ -1,7 +1,7 @@
 from HomeWork13.factories.dish_factories import DishFactories
 
 class OrderPart:
-
+    #завдання 3
     @staticmethod
     def get_factory(dishes):
         if dishes == 'dish':

@@ -39,7 +39,7 @@ class TrainCar2:
     def passenger_name(self, name):
         self._passenger_name = name
 
-
+        
 class Train:
     #create the second carriage
     def __init__(self, class_train, second_class_train):

@@ -1,51 +1,49 @@
-from HomeWork13.AddingRemovingRow.adding_removing_row import CSVFileManager
 import csv
 
 class TestCSV():
-
+    #завдання 2
     def test_add_row(self):
-        # Открываем файл для чтения
+        #opening the file for reading
         with open('new.csv', 'r') as file:
             lines_before = file.readlines()
 
-        # Добавляем одну строку в файл
+        #add one line to the file
         with open('new.csv', 'a', newline='') as file:
             writer = csv.writer(file, delimiter=',')
             writer.writerow(["Stefanko","Jacek","Jaryna"])
 
-        # Проверяем количество строк после добавления
+        #checking the number of lines after adding
         with open('new.csv', 'r') as file:
             lines_after = file.readlines()
 
-        # Проверяем, увеличилось ли количество строк на одну с помощью утверждения assert
+        #checking if the number of rows has increased by one using an assert statement
         assert len(lines_after) == len(lines_before) + 1
-        print("Количество строк увеличилось на одну.")
+        print("The number of lines has increased by one")
 
     def test_remove_row(self):
-        # Открываем файл для чтения
+
         with open('new.csv', 'r') as file:
             lines_before = file.readlines()
 
-        # Читаем все строки в список
         with open('new.csv', 'r') as file:
             lines = file.readlines()
 
-        # Удаляем предпоследнюю строку из списка
+        #removing the penultimate line from the list
         del lines[-1]
 
-        # Перезаписываем файл с оставшимися строками
+        #rewrite the file with the remaining lines
         with open('new.csv', 'w', newline='') as file:
             writer = csv.writer(file, delimiter=',')
             writer.writerows([line.strip().split(',') for line in lines])
 
-        # Проверяем, что строка была удалена
+        #checking that the line has been deleted
         with open('new.csv', 'r') as file:
             lines_after_remove = file.readlines()
 
         assert len(lines_after_remove) == len(lines_before) - 1
-        print("Предпоследняя строка успешно удалена.")
+        print('line was successfully deleted')
 
-# Создание экземпляра класса и вызов методов тестирования
+#creating a class instance and calling test methods
 tester = TestCSV()
 tester.test_add_row()
 tester.test_remove_row()
