@@ -58,7 +58,7 @@ class Train:
 
 
 train_car = TrainCar(None, None, None)
-train_car2 = TrainCar2(None, None, None)  # Передаем параметры при создании объекта TrainCar2
+train_car2 = TrainCar2(None, None, None)  #passing parameters when creating the TrainCar2 object
 train = train_car + train_car2
 print(train)
 
