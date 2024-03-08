@@ -6,7 +6,6 @@ def first_vagon():
     print('I`m cool first vagon')
     yield Train('lux', 'polulux')
 
-
 @pytest.fixture
 def vagon():
     yield TrainCar('Ivonna', '160', 66)
@@ -20,3 +19,10 @@ def populated_vagon(first_vagon, vagon, vagon1):
     first_vagon[vagon.passenger_name] = vagon
     first_vagon[vagon1.passenger_name] = vagon1
     yield first_vagon
+
+@pytest.fixture
+
+def parametrised_train():
+    def _first_vagon(a, b):
+        return Train(a, b)
+    return _first_vagon

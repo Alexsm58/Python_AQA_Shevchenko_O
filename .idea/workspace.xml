@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added task 2 for lesson 14">
-      <change afterPath="$PROJECT_DIR$/HomeWork14/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork14/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork14/home_work_lesson18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added fixture for task in lesson 14">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork12/home_work_lesson15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork12/home_work_lesson15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork14/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork14/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork14/home_work_lesson18.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork14/home_work_lesson18.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for home_work_lesson18.test_first_vagon_parametrised.executor": "Run",
+    "Python tests.Python tests for home_work_lesson18.test_vagon1_len.executor": "Run",
     "Python tests.Python tests for home_work_lesson18.test_vagon_len.executor": "Debug",
+    "Python tests.Python tests for home_work_lesson18.test_vagons_complex_fixture.executor": "Run",
     "Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture.executor": "Run",
     "Python tests.Python tests for test_adding_removing_row.TestCSV.executor": "Run",
     "Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor": "Run",
@@ -56,6 +55,7 @@
     "Python._pydev_execfile.executor": "Run",
     "Python.adapter_example.executor": "Run",
     "Python.adding_removing_row.executor": "Run",
+    "Python.conftest.executor": "Run",
     "Python.csv_exemple.executor": "Run",
     "Python.decorators_example.executor": "Run",
     "Python.exceptions_example.executor": "Run",
@@ -104,7 +104,29 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture">
+  <component name="RunManager" selected="Python tests.Python tests in home_work_lesson18.py">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork14/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="home_work_lesson15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -127,29 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork13/order.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for home_work_lesson18.test_vagon_len" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for home_work_lesson18.test_first_vagon_parametrised" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,11 +160,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;home_work_lesson18.test_vagon_len&quot;" />
+      <option name="_new_target" value="&quot;home_work_lesson18.test_first_vagon_parametrised&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for home_work_lesson18.test_vagons_multiply_fixture" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for home_work_lesson18.test_vagon1_len" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +175,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;home_work_lesson18.test_vagons_multiply_fixture&quot;" />
+      <option name="_new_target" value="&quot;home_work_lesson18.test_vagon1_len&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -196,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture" />
-        <item itemvalue="Python.home_work_lesson15" />
-        <item itemvalue="Python tests.Python tests for home_work_lesson18.test_vagon_len" />
         <item itemvalue="Python tests.Python tests in home_work_lesson18.py" />
-        <item itemvalue="Python.order" />
+        <item itemvalue="Python.home_work_lesson15" />
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python tests.Python tests for home_work_lesson18.test_vagon1_len" />
+        <item itemvalue="Python tests.Python tests for home_work_lesson18.test_first_vagon_parametrised" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +444,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709594701716</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added fixture for task in lesson 14">
+      <option name="closed" value="true" />
+      <created>1709847519971</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1709847519971</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -459,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="use of keywords&#10;update of the second lecture notes&#10;solving the first problem in the task&#10;added solving the second and third problems" />
     <MESSAGE value="rounding fix in problem 3" />
     <MESSAGE value="added lesson notes 3" />
     <MESSAGE value="added the whole lecture" />
@@ -484,6 +491,7 @@
     <MESSAGE value="added task 1 and 2 for lesson 13" />
     <MESSAGE value="added task 1 for lesson 14" />
     <MESSAGE value="added task 2 for lesson 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="added task 2 for lesson 14" />
+    <MESSAGE value="added fixture for task in lesson 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fixture for task in lesson 14" />
   </component>
 </project>
