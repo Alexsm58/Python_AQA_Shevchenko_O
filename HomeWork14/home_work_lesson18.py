@@ -25,11 +25,10 @@ def test_vagons_complex_fixture(populated_vagon):
     'train_class, train_passenger_name',
     [('a', 'a'), ('c', 'c')]
 )
-def test_first_vagon_parametrised(first_vagon, train_class, train_passenger_name):
-
-    train_instance = Train(train_class, train_passenger_name)    #создаем экземпляр класса Train
-    first_vagon[train_passenger_name] = train_instance    #присваиваем его в словарь first_vagon
-    assert train_instance.class_train == train_class    #проверяем, что значение объекта train_instance.class_train соответствует переданному train_class
+def test_first_vagon_parametrised(first_vagon, train_class, train_passenger_name):    #added parametrised test
+    train_instance = Train(train_class, train_passenger_name)    #create an instance of the Train class
+    first_vagon[train_passenger_name] = train_instance    #assign it to the first_vagon dictionary
+    assert train_instance.class_train == train_class    #we check that the value of the train_instance.class_train object matches the passed train_class
 
 @pytest.mark.regression
 @pytest.mark.smoke
