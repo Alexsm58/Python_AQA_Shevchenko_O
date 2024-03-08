@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added fixture for task in lesson 14">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added parametrize">
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork14/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork14/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork14/home_work_lesson18.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork14/home_work_lesson18.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -452,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709847519971</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="added parametrize">
+      <option name="closed" value="true" />
+      <created>1709895480752</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1709895480752</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rounding fix in problem 3" />
     <MESSAGE value="added lesson notes 3" />
     <MESSAGE value="added the whole lecture" />
     <MESSAGE value="making edits" />
@@ -492,6 +499,7 @@
     <MESSAGE value="added task 1 for lesson 14" />
     <MESSAGE value="added task 2 for lesson 14" />
     <MESSAGE value="added fixture for task in lesson 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="added fixture for task in lesson 14" />
+    <MESSAGE value="added parametrize" />
+    <option name="LAST_COMMIT_MESSAGE" value="added parametrize" />
   </component>
 </project>
