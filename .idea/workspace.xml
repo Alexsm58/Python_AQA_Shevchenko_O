@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added comments to homework">
-      <change afterPath="$PROJECT_DIR$/HomeWork15/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork15/home_work_lesson19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork15/selenium_home_work_lesson15.py" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added some checks for homework 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork13/test_for_practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork15/selenium_home_work_lesson15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork15/selenium_home_work_lesson15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -482,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709901516514</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added some checks for homework 15">
+      <option name="closed" value="true" />
+      <created>1710107233775</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1710107233775</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="making edits" />
     <MESSAGE value="added a solution to the first problem" />
     <MESSAGE value="added a solution to the first problem&#10;added a solution to the second problem" />
     <MESSAGE value="added a solution to the fourth problem" />
@@ -522,6 +526,7 @@
     <MESSAGE value="added parametrize" />
     <MESSAGE value="added marks smoke and regression" />
     <MESSAGE value="added comments to homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="added comments to homework" />
+    <MESSAGE value="added some checks for homework 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some checks for homework 15" />
   </component>
 </project>
