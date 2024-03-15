@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added test fof pagination">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added test comments fix">
+      <change afterPath="$PROJECT_DIR$/HomeWork16/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/dashboard_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/test_dashboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork15/selenium_home_work_lesson15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork15/selenium_home_work_lesson15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +49,12 @@
     "Python tests.Python tests for home_work_lesson18.test_vagon_len.executor": "Debug",
     "Python tests.Python tests for home_work_lesson18.test_vagons_complex_fixture.executor": "Run",
     "Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture.executor": "Run",
+    "Python tests.Python tests for home_work_lesson19.test_click_the_card.executor": "Run",
     "Python tests.Python tests for selenium_home_work_lesson15.test_click_the_card.executor": "Run",
     "Python tests.Python tests for test_adding_removing_row.TestCSV.executor": "Run",
     "Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor": "Run",
     "Python tests.Python tests for test_adding_removing_row.TestString.executor": "Run",
+    "Python tests.Python tests for test_dashboard.test_go_to_sale.executor": "Run",
     "Python tests.Python tests in home_work_lesson18.py.executor": "Run",
     "Python tests.Python tests in selenium_home_work_lesson15.py.executor": "Run",
     "Python tests.Python tests in test_adding_removing_row.py.executor": "Run",
@@ -108,7 +116,7 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in selenium_home_work_lesson15.py">
+  <component name="RunManager" selected="Python tests.Python tests for test_dashboard.test_go_to_sale">
     <configuration name="home_work_lesson19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -131,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="selenium_home_work_lesson15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="home_work_lesson19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork15/selenium_home_work_lesson15.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork15\home_work_lesson19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for selenium_home_work_lesson15.test_click_the_card" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for HomeWork15.home_work_lesson19.test_click_the_card" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,26 +172,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;selenium_home_work_lesson15.test_click_the_card&quot;" />
+      <option name="_new_target" value="&quot;HomeWork15.home_work_lesson19.test_click_the_card&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/HomeWork13/test_for_practice.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork13/test_for_practice.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in selenium_home_work_lesson15.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for home_work_lesson19.test_click_the_card" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,17 +187,47 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork15/selenium_home_work_lesson15.py&quot;" />
+      <option name="_new_target" value="&quot;home_work_lesson19.test_click_the_card&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_dashboard.test_go_to_sale" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork16/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dashboard.test_go_to_sale&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in home_work_lesson19.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork15/home_work_lesson19.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in selenium_home_work_lesson15.py" />
-        <item itemvalue="Python tests.Python tests for selenium_home_work_lesson15.test_click_the_card" />
-        <item itemvalue="Python.selenium_home_work_lesson15" />
+        <item itemvalue="Python tests.Python tests for test_dashboard.test_go_to_sale" />
+        <item itemvalue="Python tests.Python tests for home_work_lesson19.test_click_the_card" />
+        <item itemvalue="Python tests.Python tests in home_work_lesson19.py" />
+        <item itemvalue="Python tests.Python tests for HomeWork15.home_work_lesson19.test_click_the_card" />
         <item itemvalue="Python.home_work_lesson19" />
-        <item itemvalue="Python tests.Python tests in C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/HomeWork13/test_for_practice.py" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +519,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710114392514</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="added test comments">
+      <option name="closed" value="true" />
+      <created>1710116017804</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1710116017804</updated>
+    </task>
+    <task id="LOCAL-00036" summary="added test comments fix">
+      <option name="closed" value="true" />
+      <created>1710116151721</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1710116151721</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -511,8 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added a solution to the first problem&#10;added a solution to the second problem" />
-    <MESSAGE value="added a solution to the fourth problem" />
     <MESSAGE value="downloaded the updates to my computer" />
     <MESSAGE value="corrected the text in the print" />
     <MESSAGE value="added commit in first task" />
@@ -536,6 +573,8 @@
     <MESSAGE value="added comments to homework" />
     <MESSAGE value="added some checks for homework 15" />
     <MESSAGE value="added test fof pagination" />
-    <option name="LAST_COMMIT_MESSAGE" value="added test fof pagination" />
+    <MESSAGE value="added test comments" />
+    <MESSAGE value="added test comments fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test comments fix" />
   </component>
 </project>
