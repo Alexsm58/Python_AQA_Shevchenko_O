@@ -6,4 +6,4 @@ class Dashboard(BasePage):
         self.locator_sale = ('xpath', '//a[@class="categories__item"][@href="category/koti/goduvannia-petslike/sale-gift"]')
 
     def click_sale(self):
-        self.click_on_element(self.locffator_sale)
+        self.click_on_element(self.locator_sale)
