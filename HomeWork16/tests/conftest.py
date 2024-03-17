@@ -35,3 +35,8 @@ def novosti(driver):
 def previous_news(driver):
     driver.get('https://uks.dp.ua/pochemu-stoit-perekryt-kryshu-garazha-evroruberoidom/i197')
     yield CategoryPage(driver)
+
+@pytest.fixture
+def pagination(driver):
+    driver.get('https://uks.dp.ua/gipsokartonnye-sistemy/t51/')
+    yield Dashboard(driver)

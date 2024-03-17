@@ -10,3 +10,11 @@ def test_to_discount(dashboard, driver):
 def test_go_to_novosti(dashboard, driver):
     dashboard.click_novosti()
     assert dashboard.driver.title == 'Новости'
+
+def test_click_serch(dashboard, driver):
+    dashboard.click_delivery()
+    assert dashboard.driver.title == 'О доставке'
+
+def test_click_pagination(pagination, driver):
+    pagination.click_pagination()
+    assert pagination.driver.title == 'Купить гипсокартонные системы в Днепре по лучшей цене с доставкой. Страница 3.'

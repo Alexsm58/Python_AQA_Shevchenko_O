@@ -1,4 +1,6 @@
 from HomeWork16.pages.base_page import BasePage
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.action_chains import ActionChains
 
 class CategoryPage(BasePage):
     def __init__(self, driver):
@@ -19,4 +21,6 @@ class CategoryPage(BasePage):
         self.click_on_element(self.locator_item_novosti)
 
     def click_previous_news(self):
-        self.click_on_element(self.click_previous_news)
+        actions = ActionChains(self.driver)
+        actions.scroll_by_amount(500,500).perform()
+        self.click_on_element(self.locator_previous_news)
