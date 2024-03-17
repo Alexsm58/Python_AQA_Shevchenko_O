@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added fixture fix">
-      <change afterPath="$PROJECT_DIR$/HomeWorkPractice16/pages/category_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWorkPractice16/tests/test_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWorkPractice16/tests/test_dashboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added conspect practice">
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/category_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/dashboard_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/pages/products_action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/test_action_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/test_category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork16/tests/test_dashboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork16/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkPractice16/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork16/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkPractice16/pages/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork16/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkPractice16/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork16/pages/dashboard_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkPractice16/pages/dashboard_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork16/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkPractice16/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork16/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWorkPractice16/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork16/tests/test_dashboard.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,83 +45,98 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for home_work_lesson18.test_first_vagon_parametrised.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for home_work_lesson18.test_vagon1_len.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for home_work_lesson18.test_vagon_len.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.Python tests for home_work_lesson18.test_vagons_complex_fixture.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for home_work_lesson19.test_click_the_card.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for selenium_home_work_lesson15.test_click_the_card.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_adding_removing_row.TestCSV.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_adding_removing_row.TestString.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_category.test_first_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dashboard.test_go_to_sale.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_dashboard.test_to_discount.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in home_work_lesson18.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in selenium_home_work_lesson15.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_adding_removing_row.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_for_practice.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__ (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adapter_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.adding_removing_row.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decorators_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exceptions_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_all_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_csv_file_operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_display_user_date.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_get_domain_names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_separation (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_separation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_subtraction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_my_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_surnames.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.home_work_lesspn14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hpme_work_lesson8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.iterator_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.math_func.executor&quot;: &quot;Run&quot;,
-    &quot;Python.newfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.order.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_lesson_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.regular_expressions_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.second_calculations_file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.selenium_home_work_lesson15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for home_work_lesson18.test_first_vagon_parametrised.executor": "Run",
+    "Python tests.Python tests for home_work_lesson18.test_vagon1_len.executor": "Run",
+    "Python tests.Python tests for home_work_lesson18.test_vagon_len.executor": "Debug",
+    "Python tests.Python tests for home_work_lesson18.test_vagons_complex_fixture.executor": "Run",
+    "Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture.executor": "Run",
+    "Python tests.Python tests for home_work_lesson19.test_click_the_card.executor": "Run",
+    "Python tests.Python tests for selenium_home_work_lesson15.test_click_the_card.executor": "Run",
+    "Python tests.Python tests for test_action_page.test_products_action.executor": "Run",
+    "Python tests.Python tests for test_adding_removing_row.TestCSV.executor": "Run",
+    "Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor": "Run",
+    "Python tests.Python tests for test_adding_removing_row.TestString.executor": "Run",
+    "Python tests.Python tests for test_category.test_clic_checkbox_manufacturer.executor": "Run",
+    "Python tests.Python tests for test_category.test_click_checkbox_manufacturer.executor": "Run",
+    "Python tests.Python tests for test_category.test_click_item_novosti.executor": "Run",
+    "Python tests.Python tests for test_category.test_first_product (1).executor": "Run",
+    "Python tests.Python tests for test_category.test_first_product.executor": "Run",
+    "Python tests.Python tests for test_category.test_products_action.executor": "Run",
+    "Python tests.Python tests for test_dashboard.test_go_to_novosti.executor": "Run",
+    "Python tests.Python tests for test_dashboard.test_go_to_sale (1).executor": "Run",
+    "Python tests.Python tests for test_dashboard.test_go_to_sale.executor": "Run",
+    "Python tests.Python tests for test_dashboard.test_to_discount (1).executor": "Run",
+    "Python tests.Python tests for test_dashboard.test_to_discount.executor": "Run",
+    "Python tests.Python tests in home_work_lesson18.py.executor": "Run",
+    "Python tests.Python tests in selenium_home_work_lesson15.py.executor": "Run",
+    "Python tests.Python tests in test_adding_removing_row.py.executor": "Run",
+    "Python tests.Python tests in test_category.py.executor": "Run",
+    "Python tests.Python tests in test_dashboard.py.executor": "Run",
+    "Python tests.Python tests in test_for_practice.py.executor": "Run",
+    "Python.__init__ (1).executor": "Run",
+    "Python.__init__ (2).executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.adapter_example.executor": "Run",
+    "Python.adding_removing_row.executor": "Run",
+    "Python.base_page.executor": "Run",
+    "Python.conftest.executor": "Run",
+    "Python.csv_exemple.executor": "Run",
+    "Python.decorators_example.executor": "Run",
+    "Python.exceptions_example.executor": "Run",
+    "Python.file_all_func.executor": "Run",
+    "Python.file_csv_file_operations.executor": "Run",
+    "Python.file_display_user_date.executor": "Run",
+    "Python.file_get_domain_names.executor": "Run",
+    "Python.file_main.executor": "Run",
+    "Python.file_my_separation (1).executor": "Run",
+    "Python.file_my_separation.executor": "Run",
+    "Python.file_my_subtraction.executor": "Run",
+    "Python.file_my_sum.executor": "Run",
+    "Python.file_surnames.executor": "Run",
+    "Python.for_practice.executor": "Run",
+    "Python.home_work_lesson11.executor": "Run",
+    "Python.home_work_lesson12.executor": "Run",
+    "Python.home_work_lesson13.executor": "Run",
+    "Python.home_work_lesson15.executor": "Run",
+    "Python.home_work_lesson17.executor": "Run",
+    "Python.home_work_lesson19.executor": "Run",
+    "Python.home_work_lesson2.executor": "Run",
+    "Python.home_work_lesson3.executor": "Run",
+    "Python.home_work_lesson7.executor": "Run",
+    "Python.home_work_lesspn14.executor": "Run",
+    "Python.hpme_work_lesson8.executor": "Run",
+    "Python.iterator_example.executor": "Run",
+    "Python.logics_example.executor": "Run",
+    "Python.math_func.executor": "Run",
+    "Python.newfile.executor": "Run",
+    "Python.order.executor": "Run",
+    "Python.practice_lesson_10.executor": "Run",
+    "Python.regular_expressions_example.executor": "Run",
+    "Python.second_calculations_file.executor": "Run",
+    "Python.selenium_home_work_lesson15.executor": "Run",
+    "Python.syntax_exemple.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/HomeWork16",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork16" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13" />
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13\AddingRemovingRow" />
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_dashboard.test_to_discount">
+  <component name="RunManager" selected="Python tests.Python tests for test_category.test_click_item_novosti">
     <configuration name="Python tests for HomeWork16.tests.test_category.test_first_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -154,88 +167,88 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for HomeWorkPractice16.tests.test_category.test_first_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_action_page.test_products_action" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWorkPractice16/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork16/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;HomeWorkPractice16.tests.test_category.test_first_product&quot;" />
+      <option name="_new_target" value="&quot;test_action_page.test_products_action&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for HomeWorkPractice16.tests.test_dashboard.test_to_discount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_category.test_click_checkbox_manufacturer" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWorkPractice16/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork16/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;HomeWorkPractice16.tests.test_dashboard.test_to_discount&quot;" />
+      <option name="_new_target" value="&quot;test_category.test_click_checkbox_manufacturer&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_category.test_first_product" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_category.test_click_item_novosti" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWorkPractice16/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork16/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_category.test_first_product&quot;" />
+      <option name="_new_target" value="&quot;test_category.test_click_item_novosti&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_dashboard.test_go_to_sale" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_category.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWorkPractice16/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork16/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dashboard.test_go_to_sale&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork16/tests/test_category.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_dashboard.test_to_discount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_dashboard.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWorkPractice16/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork16/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dashboard.test_to_discount&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork16/tests/test_dashboard.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_dashboard.test_to_discount" />
-        <item itemvalue="Python tests.Python tests for test_dashboard.test_go_to_sale" />
-        <item itemvalue="Python tests.Python tests for test_category.test_first_product" />
-        <item itemvalue="Python tests.Python tests for HomeWorkPractice16.tests.test_category.test_first_product" />
-        <item itemvalue="Python tests.Python tests for HomeWorkPractice16.tests.test_category.test_first_product" />
+        <item itemvalue="Python tests.Python tests for test_category.test_click_item_novosti" />
+        <item itemvalue="Python tests.Python tests in test_dashboard.py" />
+        <item itemvalue="Python tests.Python tests for test_action_page.test_products_action" />
+        <item itemvalue="Python tests.Python tests in test_category.py" />
+        <item itemvalue="Python tests.Python tests for test_category.test_click_checkbox_manufacturer" />
       </list>
     </recent_temporary>
   </component>
@@ -559,7 +572,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710515279512</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="added conspect practice">
+      <option name="closed" value="true" />
+      <created>1710663723784</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710663723784</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -574,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added commit in first task" />
     <MESSAGE value="changed commit in second task" />
     <MESSAGE value="added lesson notes lesson10" />
     <MESSAGE value="added task 1 in homework 8" />
@@ -599,6 +619,7 @@
     <MESSAGE value="added test comments fix" />
     <MESSAGE value="added fixture" />
     <MESSAGE value="added fixture fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="added fixture fix" />
+    <MESSAGE value="added conspect practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="added conspect practice" />
   </component>
 </project>
