@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added pagination tests for dashboard">
-      <change afterPath="$PROJECT_DIR$/HomeWork17/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/pages/action_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/pages/dashboard_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/pages/product_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/tests/test_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/tests/test_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/tests/test_dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/tests/test_product.py" afterDir="false" />
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added first produkt tests for dashboard">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/dashboard_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/dashboard_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/product_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork17/tests/test_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/tests/test_product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +70,9 @@
     "Python tests.Python tests for test_dashboard.test_go_to_sale_and_check.executor": "Run",
     "Python tests.Python tests for test_dashboard.test_to_discount (1).executor": "Run",
     "Python tests.Python tests for test_dashboard.test_to_discount.executor": "Run",
+    "Python tests.Python tests for test_product.test_buy_gips_titan.executor": "Run",
+    "Python tests.Python tests for test_product.test_bypass_to_gips.executor": "Run",
+    "Python tests.Python tests for test_product.test_go_to_gips_titan.executor": "Run",
     "Python tests.Python tests in home_work_lesson18.py.executor": "Run",
     "Python tests.Python tests in selenium_home_work_lesson15.py.executor": "Run",
     "Python tests.Python tests in test_adding_removing_row.py.executor": "Run",
@@ -146,22 +141,7 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_dashboard.test_click_check">
-    <configuration name="Python tests for test_action.test_action" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_action.test_action&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_product.test_buy_gips_titan">
     <configuration name="Python tests for test_dashboard.test_click_check" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -174,21 +154,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_dashboard.test_click_check&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_dashboard.test_click_pagination" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dashboard.test_click_pagination&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -207,7 +172,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_category.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_product.test_buy_gips_titan" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,17 +183,47 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/HomeWork17/tests/test_category.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_buy_gips_titan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_product.test_bypass_to_gips" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_bypass_to_gips&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_product.test_go_to_gips_titan" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_go_to_gips_titan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_product.test_buy_gips_titan" />
+        <item itemvalue="Python tests.Python tests for test_product.test_go_to_gips_titan" />
+        <item itemvalue="Python tests.Python tests for test_product.test_bypass_to_gips" />
         <item itemvalue="Python tests.Python tests for test_dashboard.test_click_check" />
         <item itemvalue="Python tests.Python tests for test_dashboard.test_go_to_sale_and_check" />
-        <item itemvalue="Python tests.Python tests for test_action.test_action" />
-        <item itemvalue="Python tests.Python tests in test_category.py" />
-        <item itemvalue="Python tests.Python tests for test_dashboard.test_click_pagination" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710692856898</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="added first produkt tests for dashboard">
+      <option name="closed" value="true" />
+      <created>1710782375434</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1710782375434</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -591,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added task 1 in homework 8" />
     <MESSAGE value="added optimization import road task 1" />
     <MESSAGE value="added a solution to the task 5" />
     <MESSAGE value="added description for tasks 5,4,3" />
@@ -616,6 +618,7 @@
     <MESSAGE value="added conspect practice" />
     <MESSAGE value="added tests for dashboard" />
     <MESSAGE value="added pagination tests for dashboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="added pagination tests for dashboard" />
+    <MESSAGE value="added first produkt tests for dashboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="added first produkt tests for dashboard" />
   </component>
 </project>

@@ -8,6 +8,7 @@ class Product(BasePage):
 
     def click_buy(self):
         self.click_on_element(self.locator_button_buy)
+        return Product(self.driver)
 
     def click_buy_one_click(self):
         self.click_on_element(self.locator_button_one_click)

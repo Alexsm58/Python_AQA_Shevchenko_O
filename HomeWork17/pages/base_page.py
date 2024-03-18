@@ -22,3 +22,7 @@ class BasePage:
 
     def click_delivery(self):
         self.click_on_element((self.locator_delivery))
+
+    def return_card_items_counter(self):
+        cart_counter = self.wait_until_element_presence(self.locator_card_items_counter)
+        return int(cart_counter.text)
