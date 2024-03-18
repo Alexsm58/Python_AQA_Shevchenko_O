@@ -10,7 +10,6 @@ class CategoryPage(BasePage):
         self.locator_item_novosti = ('xpath', '//div/h2[@class="blog-list-title"]/a[@href="pochemu-stoit-perekryt-kryshu-garazha-evroruberoidom/i197/"]')
         self.locator_previous_news = ('xpath', '//div[@class="prevPost"]')
         self.locator_gips_pagination = ('xpath', '//div[@class="pager align-center"]/a[@href="/gipsokartonnye-sistemy/t51/?page=3"]')
-        self.locator_pagination = ('xpath', '//div[@class="pager align-center"]//a[@href="/gipsokartonnye-sistemy/t51/?page=3"]')
         self.locator_profil = ('xpath', '//div[@class="product-box light-bg"]/a//img[@title="Профиль UA 50 4 метра"]')
         self.locator_gips_titan = ('xpath', '//div[@class="product-box light-bg"]/a//img[@title="Гипсокартон КНАУФ Диамант (Титан) 12,5 mm 1,2 m*2,5 m "]')
 

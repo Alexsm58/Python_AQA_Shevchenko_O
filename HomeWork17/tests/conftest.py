@@ -1,5 +1,6 @@
 import pytest
 from selenium.webdriver import Chrome
+from HomeWork17.pages.base_page import BasePage
 from HomeWork17.pages.dashboard_page import Dashboard
 from HomeWork17.pages.category_page import CategoryPage
 from HomeWork17.pages.action_page import ActionPage

@@ -13,6 +13,8 @@ def test_buy_gips_titan(buy_gips, driver):
     buy_gips.click_buy()
     assert buy_gips.return_card_items_counter() == 1
 
-def test_buy_gips_titan(buy_gips, driver):
-    buy_gips.click_buy()
-    assert buy_gips.return_card_items_counter() == 1
+def test_go_to_primer(dashboard, driver):
+    buy_primer = dashboard.click_novosti()
+    buy_primer.click_header_discount()
+    buy_primer.click_checkbox()
+    assert buy_primer.driver.title == 'Купить Masternet в Днепре (Днепропетровске)'
