@@ -1,6 +1,7 @@
 from HomeWork17.pages.base_page import BasePage
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+from HomeWork17.pages.product_page import Product
 
 class CategoryPage(BasePage):
     def __init__(self, driver):
@@ -14,6 +15,7 @@ class CategoryPage(BasePage):
         self.locator_gips_titan = ('xpath', '//div[@class="product-box light-bg"]/a//img[@title="Гипсокартон КНАУФ Диамант (Титан) 12,5 mm 1,2 m*2,5 m "]')
         self.locator_sort_product = ('xpath', '//div[@class="product-sort hide-on-mobile"]/a[@href="/gipsokartonnye-sistemy/t51/?sort=name+asc"]')
         self.locator_cart_acvapanel = ('xpath', '//div/a[@href="akvapanel-cementnaya-plita-naruzhnaya-aquapanel-cement-board-outdoor-knauf/p2617/"]/span[1]')
+        self.locator_glue = ('xpath', '//div[@class="left-menu-item"]/a[@href="dlya-montazha/t71/"]')
 
     def click_first_product(self):
         self.click_on_element(self.locator_first_product)
@@ -45,3 +47,7 @@ class CategoryPage(BasePage):
 
     def click_cart_acvapanel(self):
         self.click_on_element(self.locator_cart_acvapanel)
+
+    def click_tab_glue(self):
+        self.click_on_element(self.locator_glue)
+        return Product(self.driver)
