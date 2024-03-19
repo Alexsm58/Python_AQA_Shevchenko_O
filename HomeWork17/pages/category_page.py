@@ -12,6 +12,8 @@ class CategoryPage(BasePage):
         self.locator_gips_pagination = ('xpath', '//div[@class="pager align-center"]/a[@href="/gipsokartonnye-sistemy/t51/?page=3"]')
         self.locator_profil = ('xpath', '//div[@class="product-box light-bg"]/a//img[@title="Профиль UA 50 4 метра"]')
         self.locator_gips_titan = ('xpath', '//div[@class="product-box light-bg"]/a//img[@title="Гипсокартон КНАУФ Диамант (Титан) 12,5 mm 1,2 m*2,5 m "]')
+        self.locator_sort_product = ('xpath', '//div[@class="product-sort hide-on-mobile"]/a[@href="/gipsokartonnye-sistemy/t51/?sort=name+asc"]')
+        self.locator_cart_acvapanel = ('xpath', '//div/a[@href="akvapanel-cementnaya-plita-naruzhnaya-aquapanel-cement-board-outdoor-knauf/p2617/"]/span[1]')
 
     def click_first_product(self):
         self.click_on_element(self.locator_first_product)
@@ -37,3 +39,9 @@ class CategoryPage(BasePage):
 
     def click_go_to_gips_titan(self):
         self.click_on_element(self.locator_gips_titan)
+
+    def click_sort_product(self):
+        self.click_on_element(self.locator_sort_product)
+
+    def click_cart_acvapanel(self):
+        self.click_on_element(self.locator_cart_acvapanel)

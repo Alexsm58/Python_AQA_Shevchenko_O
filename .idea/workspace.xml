@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added product tests for dashboard">
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added product tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/dashboard_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/dashboard_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/product_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/tests/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork17/tests/test_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/tests/test_product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +71,7 @@
     "Python tests.Python tests for test_product.test_buy_gips_titan_one_click.executor": "Run",
     "Python tests.Python tests for test_product.test_bypass_to_gips.executor": "Run",
     "Python tests.Python tests for test_product.test_go_to_gips_titan.executor": "Run",
+    "Python tests.Python tests for test_product.test_go_to_pagination.executor": "Run",
     "Python tests.Python tests for test_product.test_go_to_primer.executor": "Run",
     "Python tests.Python tests in home_work_lesson18.py.executor": "Run",
     "Python tests.Python tests in selenium_home_work_lesson15.py.executor": "Run",
@@ -143,22 +141,7 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_product.test_go_to_primer">
-    <configuration name="Python tests for test_dashboard.test_click_pagination" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_dashboard.test_click_pagination&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_product.test_sort">
     <configuration name="Python tests for test_product.test_buy_gips_titan" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -171,21 +154,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_product.test_buy_gips_titan&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_product.test_buy_gips_titan_one_click" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product.test_buy_gips_titan_one_click&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -204,6 +172,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_product.test_go_to_pagination" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_go_to_pagination&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_product.test_go_to_primer" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -219,13 +202,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_product.test_sort" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork17/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product.test_sort&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_product.test_sort" />
         <item itemvalue="Python tests.Python tests for test_product.test_go_to_primer" />
+        <item itemvalue="Python tests.Python tests for test_product.test_go_to_pagination" />
         <item itemvalue="Python tests.Python tests for test_product.test_buy_gips_titan" />
         <item itemvalue="Python tests.Python tests for test_product.test_go_to_gips_titan" />
-        <item itemvalue="Python tests.Python tests for test_dashboard.test_click_pagination" />
-        <item itemvalue="Python tests.Python tests for test_product.test_buy_gips_titan_one_click" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710795824893</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="added product tests">
+      <option name="closed" value="true" />
+      <created>1710804418749</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1710804418749</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -604,7 +610,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added a solution to the task 5" />
     <MESSAGE value="added description for tasks 5,4,3" />
     <MESSAGE value="added fix wrong name" />
     <MESSAGE value="added fix wrong name task 6" />
@@ -629,6 +634,7 @@
     <MESSAGE value="added pagination tests for dashboard" />
     <MESSAGE value="added first produkt tests for dashboard" />
     <MESSAGE value="added product tests for dashboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="added product tests for dashboard" />
+    <MESSAGE value="added product tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="added product tests" />
   </component>
 </project>

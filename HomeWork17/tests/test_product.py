@@ -18,3 +18,14 @@ def test_go_to_primer(dashboard, driver):
     buy_primer.click_header_discount()
     buy_primer.click_checkbox()
     assert buy_primer.driver.title == 'Купить Masternet в Днепре (Днепропетровске)'
+
+def test_go_to_pagination(dashboard, driver):
+    go_to_pagination = dashboard.click_sale()
+    go_to_pagination.click_gips_pagination()
+    assert  go_to_pagination.driver.title == 'Купить гипсокартонные системы в Днепре по лучшей цене с доставкой. Страница 3.'
+
+def test_sort(dashboard, driver):
+    sort = dashboard.click_sale()
+    sort.click_sort_product()
+    sort.click_cart_acvapanel()
+    assert sort.driver.title == 'Аквапанель цементная плита наружная ( Aquapanel Cement Board Outdoor ) Knauf'
