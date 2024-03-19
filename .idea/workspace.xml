@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added 10 test with Page Factory pattern">
-      <change afterPath="$PROJECT_DIR$/HomeWork17/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/core/locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/core/locators/action_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/core/locators/base_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/core/locators/category_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/core/locators/dashboards_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork17/core/locators/product_locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/action_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/action_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/dashboard_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/dashboard_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/product_page.py" afterDir="false" />
-    </list>
+    <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added all test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +46,10 @@
     "Python tests.Python tests for test_adding_removing_row.TestCSV.executor": "Run",
     "Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor": "Run",
     "Python tests.Python tests for test_adding_removing_row.TestString.executor": "Run",
+    "Python tests.Python tests for test_category.test_click_checkbox_manufacturer.executor": "Run",
+    "Python tests.Python tests for test_category.test_first_product.executor": "Run",
     "Python tests.Python tests for test_dashboard.test_go_to_sale.executor": "Run",
+    "Python tests.Python tests for test_product.test_buy_gips_titan.executor": "Run",
     "Python tests.Python tests for test_product.test_footer_button.executor": "Run",
     "Python tests.Python tests for test_product.test_go_to_glue.executor": "Run",
     "Python tests.Python tests for test_product.test_go_to_pagination.executor": "Run",
@@ -516,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710858374199</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="added all test">
+      <option name="closed" value="true" />
+      <created>1710868910402</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1710868910402</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added a solution to the fourth problem" />
     <MESSAGE value="downloaded the updates to my computer" />
     <MESSAGE value="corrected the text in the print" />
     <MESSAGE value="added commit in first task" />
@@ -556,6 +552,7 @@
     <MESSAGE value="added some checks for homework 15" />
     <MESSAGE value="added test fof pagination" />
     <MESSAGE value="added 10 test with Page Factory pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 10 test with Page Factory pattern" />
+    <MESSAGE value="added all test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all test" />
   </component>
 </project>
