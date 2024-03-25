@@ -13,6 +13,31 @@ def test_buy_gips_titan(buy_gips, driver):
     buy_gips.click_buy()
     assert buy_gips.return_card_items_counter() == 1
 
+def test_buy_gips_titan_cookie(buy_gips, driver):
+    buy_gips.click_buy()
+    assert buy_gips.return_card_items_counter() == 1
+    assert driver.get_cookie('my_cookie') is not None
+
+    #checking the cookie value
+    assert driver.get_cookie('my_cookie')['value'] == 'good luck'
+
+def test_buy_gips_titan_cookie(buy_gips, driver):
+    buy_gips.click_buy()
+    assert buy_gips.return_card_items_counter() == 1
+
+    #checking the presence and value of the 'tree' cookie
+    tree_cookie = driver.get_cookie('tree')
+    assert tree_cookie is not None
+    assert tree_cookie['value'] == 'apples'
+
+def test_buy_gips_titan_localStorage(buy_gips, driver):
+    buy_gips.click_buy()
+    assert buy_gips.return_card_items_counter() == 1
+
+    #checking the value in local storage
+    local_storage_weather = driver.execute_script('return window.localStorage["weather"];')
+    assert local_storage_weather == 'sunny'
+
 def test_go_to_primer(dashboard, driver):
     buy_primer = dashboard.click_novosti()
     buy_primer.click_header_discount()
@@ -45,6 +70,13 @@ def test_footer_button(dashboard, driver):
     footer_button = dashboard.click_new_arrivals()
     footer_button.click_footer_button()
     assert footer_button.driver.title == 'Информация для оптовых покупателей'
+
+    # Перевірка кукі
+    assert driver.get_cookie('my_cookie') is not None
+
+    # Перевірка локального сховища
+    local_storage_weather = driver.execute_script('return window.localStorage["weather"];')
+    assert local_storage_weather == 'sunny'
 
 def test_go_to_stories(dashboard, driver):
     items_stories = dashboard.click_stories()

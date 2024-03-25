@@ -1,8 +1,8 @@
-from HomeWork17.pages.base_page import BasePage
+from HomeWork18.pages.base_page import BasePage, Cookies, LocalStorage
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
-from HomeWork17.pages.product_page import Product
-from HomeWork17.core import CategoryLocators
+from HomeWork18.pages.product_page import Product
+from HomeWork18.core import CategoryLocators
 
 class CategoryPage(BasePage):
     def __init__(self, driver):
@@ -36,10 +36,19 @@ class CategoryPage(BasePage):
 
     def click_sort_product(self):
         self.click_on_element(self.locators.locator_sort_product)
+        return LocalStorage, Cookies
 
     def click_cart_acvapanel(self):
         self.click_on_element(self.locators.locator_cart_acvapanel)
+        return Cookies, LocalStorage
 
     def click_tab_glue(self):
         self.click_on_element(self.locators.locator_glue)
         return Product(self.driver)
+
+    def click_plas_shtukaturki(self, category, items_list):
+        category_object = self.click_on_element(category)
+        for item in items_list:
+            item_object = self.wait_until_element_presence(item)
+            assert item_object.is_displayed()
+        return category_object
