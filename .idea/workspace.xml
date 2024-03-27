@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added product tests">
-      <change afterPath="$PROJECT_DIR$/HomeWork18/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/data_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/locators/action_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/locators/base_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/locators/category_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/locators/dashboards_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/core/locators/product_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/pages/action_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/pages/category_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/pages/dashboard_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/pages/product_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/tests/test_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/tests/test_category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/tests/test_dashboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork18/tests/test_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork19/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork19/xml_exemple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/pages/category_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork17/tests/test_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork17/tests/test_product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +136,7 @@
     &quot;Python.second_calculations_file.executor&quot;: &quot;Run&quot;,
     &quot;Python.selenium_home_work_lesson15.executor&quot;: &quot;Run&quot;,
     &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xml_exemple.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -180,7 +158,51 @@
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork8" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_product.test_sort">
+  <component name="RunManager" selected="Python.home_work_lesson24">
+    <configuration name="home_work_lesson24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork19/home_work_lesson24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml_exemple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_AQA_Shevchenko_Oleksandr" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork19/xml_exemple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_category.test_click_locator_shtukaturki" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -211,21 +233,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_product.test_go_to_stories" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork18/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product.test_go_to_stories&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_product.test_sort" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Python_AQA_Shevchenko_Oleksandr" />
       <option name="ENV_FILES" value="" />
@@ -241,28 +248,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_product.test_sort_checkbox_glue" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_AQA_Shevchenko_Oleksandr" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork18/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product.test_sort_checkbox_glue&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_product.test_sort" />
+        <item itemvalue="Python.home_work_lesson24" />
+        <item itemvalue="Python.xml_exemple" />
         <item itemvalue="Python tests.Python tests for test_category.test_click_locator_shtukaturki" />
+        <item itemvalue="Python tests.Python tests for test_product.test_sort" />
         <item itemvalue="Python tests.Python tests for test_product.test_buy_gips_titan" />
-        <item itemvalue="Python tests.Python tests for test_product.test_sort_checkbox_glue" />
-        <item itemvalue="Python tests.Python tests for test_product.test_go_to_stories" />
       </list>
     </recent_temporary>
   </component>
@@ -634,7 +626,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710804418749</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="added product tests">
+      <option name="closed" value="true" />
+      <created>1711398434037</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1711398434037</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
