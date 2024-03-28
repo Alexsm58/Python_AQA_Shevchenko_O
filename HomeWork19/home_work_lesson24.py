@@ -37,7 +37,7 @@ xml_processor = XMLProcessor(file_path)
 # Перегон XML в рядок
 xml_as_string = xml_processor.xml_to_string()
 print("XML як рядок:")
-print(xml_as_string)
+print(type(xml_as_string))
 
 # Додавання кастомного тегу
 xml_processor.add_custom_tag('custom_tag', {'attribute': 'value'})
