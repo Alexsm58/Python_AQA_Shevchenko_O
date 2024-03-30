@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="335c2612-ea30-41e1-9b79-f025f1b8f275" name="Changes" comment="added all test">
-      <change beforePath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_AQA_Shevchenko_Oleksandr.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HomeWork19/home_work_lesson24.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork19/home_work_lesson24.py" afterDir="false" />
     </list>
@@ -38,91 +36,91 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for home_work_lesson18.test_first_vagon_parametrised.executor": "Run",
-    "Python tests.Python tests for home_work_lesson18.test_vagon1_len.executor": "Run",
-    "Python tests.Python tests for home_work_lesson18.test_vagon_len.executor": "Debug",
-    "Python tests.Python tests for home_work_lesson18.test_vagons_complex_fixture.executor": "Run",
-    "Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture.executor": "Run",
-    "Python tests.Python tests for selenium_home_work_lesson15.test_click_the_card.executor": "Run",
-    "Python tests.Python tests for test_action.test_action.executor": "Run",
-    "Python tests.Python tests for test_action_page.test_products_action.executor": "Run",
-    "Python tests.Python tests for test_adding_removing_row.TestCSV.executor": "Run",
-    "Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor": "Run",
-    "Python tests.Python tests for test_adding_removing_row.TestString.executor": "Run",
-    "Python tests.Python tests for test_category.test_click_checkbox_manufacturer.executor": "Run",
-    "Python tests.Python tests for test_category.test_first_product.executor": "Run",
-    "Python tests.Python tests for test_dashboard.test_go_to_sale.executor": "Run",
-    "Python tests.Python tests for test_product.test_buy_gips_titan.executor": "Run",
-    "Python tests.Python tests for test_product.test_footer_button.executor": "Run",
-    "Python tests.Python tests for test_product.test_go_to_glue.executor": "Run",
-    "Python tests.Python tests for test_product.test_go_to_pagination.executor": "Run",
-    "Python tests.Python tests for test_product.test_go_to_primer.executor": "Run",
-    "Python tests.Python tests for test_product.test_go_to_stories.executor": "Run",
-    "Python tests.Python tests for test_product.test_sort.executor": "Run",
-    "Python tests.Python tests for test_product.test_sort_checkbox_glue.executor": "Run",
-    "Python tests.Python tests in home_work_lesson18.py.executor": "Run",
-    "Python tests.Python tests in selenium_home_work_lesson15.py.executor": "Run",
-    "Python tests.Python tests in test_adding_removing_row.py.executor": "Run",
-    "Python tests.Python tests in test_category.py (1).executor": "Run",
-    "Python tests.Python tests in test_category.py.executor": "Run",
-    "Python tests.Python tests in test_dashboard.py (1).executor": "Run",
-    "Python tests.Python tests in test_dashboard.py.executor": "Run",
-    "Python tests.Python tests in test_for_practice.py.executor": "Run",
-    "Python tests.Python tests in test_product.py.executor": "Run",
-    "Python.__init__ (1).executor": "Run",
-    "Python.__init__ (2).executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python._pydev_execfile.executor": "Run",
-    "Python.adapter_example.executor": "Run",
-    "Python.adding_removing_row.executor": "Run",
-    "Python.conftest.executor": "Run",
-    "Python.csv_exemple.executor": "Run",
-    "Python.decorators_example.executor": "Run",
-    "Python.exceptions_example.executor": "Run",
-    "Python.file_all_func.executor": "Run",
-    "Python.file_csv_file_operations.executor": "Run",
-    "Python.file_display_user_date.executor": "Run",
-    "Python.file_get_domain_names.executor": "Run",
-    "Python.file_main.executor": "Run",
-    "Python.file_my_separation (1).executor": "Run",
-    "Python.file_my_separation.executor": "Run",
-    "Python.file_my_subtraction.executor": "Run",
-    "Python.file_my_sum.executor": "Run",
-    "Python.file_surnames.executor": "Run",
-    "Python.for_practice.executor": "Run",
-    "Python.home_work_lesson11.executor": "Run",
-    "Python.home_work_lesson12.executor": "Run",
-    "Python.home_work_lesson13.executor": "Run",
-    "Python.home_work_lesson15.executor": "Run",
-    "Python.home_work_lesson17.executor": "Run",
-    "Python.home_work_lesson19.executor": "Run",
-    "Python.home_work_lesson2.executor": "Run",
-    "Python.home_work_lesson24.executor": "Run",
-    "Python.home_work_lesson3.executor": "Run",
-    "Python.home_work_lesson7.executor": "Run",
-    "Python.home_work_lesspn14.executor": "Run",
-    "Python.hpme_work_lesson8.executor": "Run",
-    "Python.iterator_example.executor": "Run",
-    "Python.logics_example.executor": "Run",
-    "Python.math_func.executor": "Run",
-    "Python.newfile.executor": "Run",
-    "Python.order.executor": "Run",
-    "Python.practice_lesson_10.executor": "Run",
-    "Python.regular_expressions_example.executor": "Run",
-    "Python.second_calculations_file.executor": "Run",
-    "Python.selenium_home_work_lesson15.executor": "Run",
-    "Python.syntax_exemple.executor": "Run",
-    "Python.xml_exemple.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for home_work_lesson18.test_first_vagon_parametrised.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for home_work_lesson18.test_vagon1_len.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for home_work_lesson18.test_vagon_len.executor&quot;: &quot;Debug&quot;,
+    &quot;Python tests.Python tests for home_work_lesson18.test_vagons_complex_fixture.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for home_work_lesson18.test_vagons_multiply_fixture.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for selenium_home_work_lesson15.test_click_the_card.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_action.test_action.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_action_page.test_products_action.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_adding_removing_row.TestCSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_adding_removing_row.TestCSV.test_add_and_remove_row.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_adding_removing_row.TestString.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_category.test_click_checkbox_manufacturer.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_category.test_first_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_dashboard.test_go_to_sale.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_buy_gips_titan.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_footer_button.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_go_to_glue.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_go_to_pagination.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_go_to_primer.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_go_to_stories.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_product.test_sort_checkbox_glue.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in home_work_lesson18.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in selenium_home_work_lesson15.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_adding_removing_row.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_category.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_category.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_dashboard.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_dashboard.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_for_practice.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_product.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__ (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adapter_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.adding_removing_row.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorators_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptions_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_all_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_csv_file_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_display_user_date.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_get_domain_names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_separation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_separation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_subtraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_my_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_surnames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesson7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_work_lesspn14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hpme_work_lesson8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterator_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logics_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.math_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.order.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_lesson_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regular_expressions_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.second_calculations_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_home_work_lesson15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.syntax_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xml_exemple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Александр/PycharmProjects/Python_AQA_Shevchenko_O/venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Александр\PycharmProjects\Python_AQA_Shevchenko_O\HomeWork13" />
@@ -534,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710868910402</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="added all test">
+      <option name="closed" value="true" />
+      <created>1711646811336</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1711646811336</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

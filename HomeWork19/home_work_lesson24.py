@@ -1,56 +1,51 @@
-import xml.etree.ElementTree as ET
+from xml.etree import ElementTree
 
-
-class XMLProcessor:
-    def __init__(self, file_path):
-        self.tree = ET.parse(file_path)
+class BreakfastMenu:
+    def __init__(self, path):
+        self.path = path
+        self.tree = ElementTree.parse(path)
         self.root = self.tree.getroot()
 
     def xml_to_string(self):
-        return ET.tostring(self.root, encoding='unicode')
+        return ElementTree.tostring(self.root, encoding='utf-8').decode('utf-8')
 
     def string_to_xml(self, xml_string):
-        self.root = ET.fromstring(xml_string)
+        self.root = ElementTree.fromstring(xml_string)
+        self.tree = ElementTree.ElementTree(self.root)
 
-    def add_custom_tag(self, tag_name, attributes=None):
-        new_tag = ET.Element(tag_name, attrib=attributes)
-        self.root.append(new_tag)
+    def add_custom_tag(self, tag, value):
+        custom_tag = ElementTree.Element(tag)
+        custom_tag.text = value
+        self.root.append(custom_tag)
 
-    def remove_custom_tag(self, tag_name):
-        for child in self.root.findall('.//' + tag_name):
-            self.root.remove(child)
+    def remove_custom_tag(self, tag):
+        for elem in self.root.findall(tag):
+            self.root.remove(elem)
 
-    def get_elements_with_attributes(self, tag_name, attributes):
-        elements = self.root.findall('.//' + tag_name)
-        filtered_elements = []
-        for element in elements:
-            element_attributes = element.attrib
-            if all(attr in element_attributes.items() for attr in attributes.items()):
-                filtered_elements.append(element)
-        return filtered_elements
+    def get_elements_with_parameters(self, parameter):
+        elements = []
+        for food in self.root.iter('food'):
+            if parameter in food.attrib:
+                elements.append(food.attrib[parameter])
+        return elements
 
+# Пример использования класса
 
-# Приклад використання класу з файлом example.xml:
-file_path = "example.xml"
-xml_processor = XMLProcessor(file_path)
+# Создание экземпляра класса BreakfastMenu
+menu = BreakfastMenu('example.xml')
 
-# Перегон XML в рядок
-xml_as_string = xml_processor.xml_to_string()
-print("XML як рядок:")
-print(type(xml_as_string))
+# Преобразование XML в строку
+xml_string = menu.xml_to_string()
+print("XML в строке:")
+print(type(xml_string))
 
-# Додавання кастомного тегу
-xml_processor.add_custom_tag('custom_tag', {'attribute': 'value'})
-print("\nXML з доданим кастомним тегом:")
-print(xml_processor.xml_to_string())
+# Добавление кастомного тега
+menu.add_custom_tag('custom_tag', 'Custom Value')
 
-# Видалення кастомного тегу
-xml_processor.remove_custom_tag('custom_tag')
-print("\nXML з видаленим кастомним тегом:")
-print(xml_processor.xml_to_string())
+# Удаление кастомного тега
+menu.remove_custom_tag('custom_tag')
 
-# Отримання елементів з параметрами
-filtered_elements = xml_processor.get_elements_with_attributes('food', {'name': 'Belgian Waffles'})
-print("\nЕлементи з параметрами:")
-for element in filtered_elements:
-    print(ET.tostring(element, encoding='unicode'))
+# Получение элементов с параметром
+elements_with_parameters = menu.get_elements_with_parameters('waffle_name')
+print("Элементы с параметром 'waffle_name':")
+print(elements_with_parameters)
